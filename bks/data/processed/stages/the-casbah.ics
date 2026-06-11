@@ -6,7 +6,441 @@ METHOD:PUBLISH
 X-WR-CALNAME:BKS - The Casbah
 X-WR-TIMEZONE:Europe/Amsterdam
 BEGIN:VEVENT
-UID:best-kept-secret-2026-2f633301e1bf6039@second-brain.local
+UID:best-kept-secret-2026-e0f0385cc9f404f2@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260612T131500Z
+DTEND:20260612T140000Z
+SUMMARY:Croíthe
+LOCATION:The Casbah
+DESCRIPTION:Darkly romantic noise rock up-and-comers\n\nFontaines D.C.\, Th
+ e Murder Capital\, Sprints\, Gurriers... and now\, Croíthe appear to be t
+ he next to grab the baton. Great bands from Ireland seem sprout to the sur
+ face just about every second these days: Croíthe bring that darkly romant
+ ic\, prowling goth/shoegaze sensibility that will make fans of Bauhaus\, S
+ isters Of Mercy and fellow Dublin-dwellers Just Mustard salivate.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-617ac55da398fb0d@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260612T144500Z
+DTEND:20260612T153000Z
+SUMMARY:Pacifica
+LOCATION:The Casbah
+DESCRIPTION:Pure-hearted\, cheeky garage bangers\n\nA good riff\, a good ho
+ ok and pure attitude: Buenos Aires garage-duo Pacifica are the definition 
+ of no-frills cool.\nIndeed\, the winds definitely worked in Inés Adam and
+  Martina Nintzel’s favour when a random internet commenter – and a mut
+ ual appreciation for The Strokes – brought them together to form a band.
+  The duo’s combined brilliance forges earworms that illustrate the messi
+ er aspects of being young\, in love with life and coping with all the trea
+ cherous growing pains that come with that. Pacifica are fun\, frantic and 
+ utterly in-your-face.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-e7272a2b595f584c@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260612T161500Z
+DTEND:20260612T170000Z
+SUMMARY:Elmer
+LOCATION:The Casbah
+DESCRIPTION:Non-conformist fusion of Dutch rap and theatre\n\nUnder her rap
+ per alter ego Elmer\, Dutch artist & producer Merel Pauw is a bona fide in
+ terloper\, causing shockwaves within the discourse of theatre\, hip-hop an
+ d pop.On debut album ‘platland’\, Elmer forges a vital and off-beat mi
+ x of rap\, techno and cabaret: a musical journey swerving between playful 
+ agitation and deep reflection. Elmer’s shows celebrate the weird and pul
+ l against the threads of gender roles and normative thinking with inventiv
+ e (musical) contrasts and witty lyricism. A true cultural tour-de-force.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-bb8a8d904238a24e@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260612T174500Z
+DTEND:20260612T183000Z
+SUMMARY:Shady Nasty
+LOCATION:The Casbah
+DESCRIPTION:Fiery mix of hip-hop\, post-punk and electronics\n\nAdd a Fred 
+ again.. to your list of fans\, and things suddenly travel at warp-speed. T
+ his is exactly what happened to Australian act Shady Nasty.Frankly\, the e
+ nthusiasm is entirely justified\, because Shady Nasty's sound is as immedi
+ ately bewitching as its tricky to define. Their adventurous productions sl
+ ither in that liminal space between post-punk and hip-hop\, with lyrics ca
+ ndidly channeling the everyday grind. Shady Nasty is already a cross-cultu
+ ral marvel to truly reckon with.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-37ec14d503e30f6a@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260612T191500Z
+DTEND:20260612T200000Z
+SUMMARY:Militarie Gun
+LOCATION:The Casbah
+DESCRIPTION:Post-hardcore of poetic honesty\n\nMilitarie Gun convert hard l
+ uck tales into rousing\, satisfying releases like few other bands can.Foun
+ ded by frontman Ian Shelton\, these American post-hardcore innovators rest
+ lessly seek out small blades of hope and vulnerability peering out from th
+ e hard-paved realities. They show that revolt isn’t just about shouting 
+ at the masses: illustrating one’s daily concerns and struggles can strik
+ e just as urgently.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-afe71c5d0a782fc5@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260612T204500Z
+DTEND:20260612T213000Z
+SUMMARY:Swordes
+LOCATION:The Casbah
+DESCRIPTION:Underground electro/hyperpop nonconformist\n\nCutting her teeth
+  within the Brooklyn warehouse rave scenes\, Swordes makes - in her own wo
+ rds - human music for humans.\nThe result is a headstrong hardware-only ap
+ proach to composing\, producing and performing\, juxtaposing cutesy hyper 
+ pop elements with gloomier\, gnarlier 80s electronica influences. Bubblegu
+ m\, rainbows\, fire and gasoline: Swordes brings a club-friendly pop exorc
+ ism that pierces like the sharpest of blades.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-95ef009df2e6ff6c@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260612T221500Z
+DTEND:20260612T230000Z
+SUMMARY:supermodel*
+LOCATION:The Casbah
+DESCRIPTION:Catchy & distinctive genre-blender with DIY-ethos\n\nUS artist 
+ Frankie Beanie's ground rules for his solo-project supermodel*: don't try 
+ and be cool\, nick everything\, keep it lowercase\, don't overthink\, alwa
+ ys talk about fight club. It translates to fun\, thrifty songs that channe
+ l MF Doom as much as LCD Soundsystem. Beanie’s frank\, observational lyr
+ ics draw partly from his experiences as an American living in the UK\, com
+ plete with Be Kind Rewind-esque homages to Jamiroquai and Fatboy Slim. Eff
+ ortlessly charming\, unpolished and yeah\, actually pretty damn cool.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-c187c140a24ff776@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260612T230000Z
+DTEND:20260613T020000Z
+SUMMARY:Tramhaus (DJ Set)
+LOCATION:The Casbah
+DESCRIPTION:Casbah DJ set by Rotterdam's rowdiest band\n\nTramhaus's snowba
+ lling success from Rotterdam's lively underground to one of Europe's great
+ est livebands has been downright inspiring.\nAnd in that journey\, its mem
+ bers have amassed a great deal of inspiration themselves from music both l
+ ocal and far across the world. A breadth of influences and favorites disti
+ lled down to an energetic DJ set at their familiar stomping grounds The Ca
+ sbah.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-5407dbcd93a6f8a6@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260613T101500Z
+DTEND:20260613T110000Z
+SUMMARY:Bruno Berle
+LOCATION:The Casbah
+DESCRIPTION:Supple polaroid filter latin pop\n\nThis Brazilian composer and
+  troubadour writes honeysweet latin pop brimming with deft arrangements.\n
+ From accounts of people who have been to Brazil\, it does seem like time w
+ orks differently over there. Bruno Berle’s warm-blooded pop affirms this
+  notion all the more. Carefree\, soft around the edges and unhurried\, Ber
+ le’s tunes embrace you with the kind of affinity of a home-cooked meal. 
+ For you lovers out there\, Bruno’s set at Best Kept would be good time t
+ o get cosy.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-0c42b865f7818a2e@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260613T114500Z
+DTEND:20260613T123000Z
+SUMMARY:Any Young Mechanic
+LOCATION:The Casbah
+DESCRIPTION:Jangly indie pop sensation\n\nAfter breaking out with their sun
+ -kissed open-the-drapes single 'Snug Barber'\, this Aussie five-piece is i
+ mmediately irresistable.\nMaintaining a fine-tuned balance between jangly 
+ and cinematic\, Any Young Mechanic recall Vampire Weekend or perhaps a sli
+ ghtly more mellowed out Violent Femmes. They embody the comfort of a fraye
+ d sweater\, with an affable\, somewhat neurotic charm.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-f89c6137b3654ae7@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260613T131500Z
+DTEND:20260613T140000Z
+SUMMARY:Grote Geelstaart
+LOCATION:The Casbah
+DESCRIPTION:Math-tastic prog-noise minions\n\nImagine Geordie Greep frontin
+ g Talking Heads instead of David Byrne: that's just one wild take on the b
+ affling madness of rising Dutch outfit Grote Geelstaart.\nIf music was som
+ ehow a math equation unlocking the fifth dimension in space\, Grote Geelst
+ aart are the kind of band to figure it out\, using odd time signatures\, r
+ iffs that scream 'fuck you\, diatonic scale!'\, and a lot of sweating it o
+ ut through three-piece suits. Grote Geelstaart's music will flop like fish
+  out of water\, only to magically grow arms and legs on the spot: rock mus
+ ic evolving in real time!
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-66b6fc533b1046cc@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260613T144500Z
+DTEND:20260613T153000Z
+SUMMARY:Etta Marcus
+LOCATION:The Casbah
+DESCRIPTION:Layered and atmospheric indie pop\n\nLonging\, sadness\, grit\,
+  and dark humour: there’s always a lot of emotions coexisting in Etta Ma
+ rcus’s songs.\nThat puts the Brixton-based songsmith in a rare echelon o
+ f songwriters\, namely touchstones like Fiona Apple\, Hope Sandoval\, Jeff
+  Buckley and Lana del Rey (Marcus opened for the latter). She is adept at 
+ bittersweet\, layered gems that reconcile the highest of highs with the lo
+ west of lows.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-8ced5227cecf5838@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260613T161500Z
+DTEND:20260613T170000Z
+SUMMARY:Crows
+LOCATION:The Casbah
+DESCRIPTION:Influential post-punk heavy-hitters\n\nThe ragged souls of Crow
+ s take flight at Best Kept Secret with a top shelf slab of heavy-melodic p
+ ost-punk.\nThe UK band have basically been your favorite band's favorite b
+ and\; IDLES' Joe Talbot is one person who has professed how influential th
+ ey were to his own group. Often pegged as brooding romantics\, Crows gigs 
+ regularly unfold in spiritual\, sweaty communions. Emotional moshpits are 
+ often the best\, right?
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-9364e88f2ef0ccb2@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260613T174500Z
+DTEND:20260613T183000Z
+SUMMARY:Midrift
+LOCATION:The Casbah
+DESCRIPTION:Prodigal shoegaze power trio\n\nThe kids are not only embracing
+  shoegaze – they are taking it to someplace new. Midrift pepper in a bit
+  of emo and pop punk to make things interesting. The path of these phenoms
+  is not like some of their forebears\, toiling away with raggedy house sho
+ ws at first. Frontman Gus Mehrkam created his songs in his bedroom\, uploa
+ ded them on TikTok\, and bang! They became viral hits. With skirmishing si
+ blings Kai and Manoa Neukermans completing the power trio\, Midrift are ju
+ stly what people call 'an overnight sensation'.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-3e054165291ef2d4@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260613T191500Z
+DTEND:20260613T200000Z
+SUMMARY:GHOSTWOMAN
+LOCATION:The Casbah
+DESCRIPTION:Dynamic transatlantic rock duo\n\nNo genre has been declared de
+ ad more than rock\; yet the duo of GHOSTWOMAN fancies itself as fiery necr
+ omancers\, reinventing its raw power all over again.Canadian Evan Uschenko
+  (guitars/vocals) and Belgian Ille van Dessel (drums/percussion) began the
+ ir voyage an entire ocean apart: now their collision course brings new tre
+ mors in activity\, exploring rock of the psychedelic\, stoner\, garage and
+  indie variety through the prism of their own infectious chemistry.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-bcca7406699dca92@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260613T204500Z
+DTEND:20260613T213000Z
+SUMMARY:Kumo 99
+LOCATION:The Casbah
+DESCRIPTION:Underground hardcore/breakbeat with need for speed\n\nWith big 
+ beats and an even bigger attitude\, Kumo 99 put a fresh spin on the deligh
+ tfully abrasive rave nostalgia of the 90s.The Los Angeles artist duo of Am
+ i Komai and Nate Donmoyer don’t play it subtle when it comes to serving 
+ up a clamouring bricolage of breakbeats\, industrial and digitised hardcor
+ e. Kumo 99 have toured with artists as diverse as Magdalena Bay and The Ar
+ med\, showing that their explosive club anthems will crush in virtually an
+ y context.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-95333e67cfd50186@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260613T221500Z
+DTEND:20260613T230000Z
+SUMMARY:Dame Area
+LOCATION:The Casbah
+DESCRIPTION:Acidic & percussive industrial romps\n\nRemember that one Death
+  Grips-lyric about having the DNA of gothic lemons? It describes Barcelona
+  industrial duo Dame Area to a tee. Their sound is both abrasive and stran
+ gely whimsical: hissy\, static-laden textures\, bile-drenched polyrhythms 
+ and shouty vocals that sound like they've been recorded in claustrophobic 
+ solitary confinement. Dame Area put a fresh and fun spin on industrial mus
+ ic\, marrying 'rave' and 'ravenous' in novel\, eye-opening ways.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-a8746986e56f3480@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260613T230000Z
+DTEND:20260614T000000Z
+SUMMARY:MEROL (DJ Debut)
+LOCATION:The Casbah
+DESCRIPTION:Dutch pop's Most Entertaining Role Model\n\nA Casbah DJ set by 
+ one of today’s most impactful Dutch artists.\nMEROL is dropping a brand 
+ new album. 'Leve de Feeks' is punk\, a middle finger and above all a liber
+ ation of the openly sexual\, outspoken woman. For her DJ debut she'll be s
+ pinning the tracks that shaped her\, from riot grrrl punk to techno.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-784f2bcae397f410@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260614T000000Z
+DTEND:20260614T020000Z
+SUMMARY:Here's The Thing DJ Set
+LOCATION:The Casbah
+DESCRIPTION:Post-punk\, psych rock\, indie rock and all that goodness inbet
+ ween\n\nThere's nothing quite like the squeak of an amp\, the rumble of a 
+ bass\, the hiss of cymbals before things are about to get real.\nThese hea
+ ds from the recurring Tilburg festival know their stuff when it comes to t
+ he latest noise from the fringes. From weirdos in basements to firebrands 
+ prowling the bigger stages\, the landscape of genre-pushing guitar-based m
+ usic seems more diverse than ever before. Here's The Thing will bundle it 
+ all into a supercharged spendour!
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-5ef3b97c1ebdc5b2@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260614T100000Z
+DTEND:20260614T104500Z
+SUMMARY:Apichat Pakwan
+LOCATION:The Casbah
+DESCRIPTION:Balmy blend of Thai music & electronics\n\nApichat Pakwan bring
+ s a lively crossover of electronics and Thai esan and molam movements: the
+  sweetest balance between the modern and the traditional.It unfolds miracu
+ lously live as well: you have producer Olivier Schreuder serving up beats 
+ that blend seamlessly with the Thai musicians and singers: not in that cru
+ de mash-up kind of way\, but warmly courting each other in a tryst. This a
+ pproach carries over to audiences\, creating a hot & sweltering dancefloor
+  environment.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-fadb2e311adc2163@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260614T111500Z
+DTEND:20260614T120000Z
+SUMMARY:DYGL
+LOCATION:The Casbah
+DESCRIPTION:Japanese garage rock torch bearers\n\nJapanese garage rockers D
+ YGL (pronounced 'day glo') embody pure exuberance and rebellion with their
+  catchy-as-sin anthems.\nThat the four piece's swagger and songwriting acu
+ men holds up against any of their forebears in evident in the fact that Th
+ e Strokes' Albert Hammond Jr. decided to take it upon himself to produce D
+ YGL's debut album. So who's in the house?Curated by Tramhaus
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-20b56f9610ab534b@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260614T123000Z
+DTEND:20260614T131500Z
+SUMMARY:Servo
+LOCATION:The Casbah
+DESCRIPTION:Brutal psych noise beast\n\nFrench trio Servo are a high mass o
+ f pure uncompromising noise rock: dangerous\, devastating and no wasted mo
+ vements.\nBrandishing locomotive rhythms\, noise hexes of the spine-chilli
+ ng variety and demonic vocals\, Servo aren’t concerned with adding tons 
+ of bells and whistles: their songs go straight for the jugular and send au
+ diences right back to the stone ages. Hunting season is open this summer. 
+ Curated by Tramhaus
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-c0f5af1d5946018a@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260614T134500Z
+DTEND:20260614T143000Z
+SUMMARY:Good Flying Birds
+LOCATION:The Casbah
+DESCRIPTION:Lo-fi jangle pop up-and-comers\n\nGood Flying Birds are a young
+  band who are happy being a throwback: capturing contagious powerpop gems 
+ with lo-fi home recordings.\nIt’s no coincidence they are named after a 
+ Guided By Voices-song\, a band emblematic of such a sprightly modus operan
+ di. Delightfully chaotic\, hodgepodge and impulsive\, the chaos Good Flyin
+ g Birds sow with a bunch of instruments in the room seems to inevitably ma
+ nifest into tunes you’ll hum along for days on end.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-cbf3f2752b0e69d1@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260614T151500Z
+DTEND:20260614T160000Z
+SUMMARY:Another Country $$$$
+LOCATION:The Casbah
+DESCRIPTION:Genre-fluid experimental rock enigma\n\nManchester experimental
+  outfit Another Country $$$$ has no qualms jumping into the deep end: whol
+ ly unconcerned with genre tropes\, eternally fluid and free.\nExperimental
+  rock\, IDM\, ambient pop\, mathcore: defining Another Country $$$$ is dep
+ endent on who you ask. The group’s creativity isn’t based on fixed out
+ comes\, but constant metamorphosis. Chalk it up to a constant remix\, comp
+ ulsively courting uncharted sonic expressways.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-f42449cbad9a92a5@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260614T164500Z
+DTEND:20260614T173000Z
+SUMMARY:C'est Qui?
+LOCATION:The Casbah
+DESCRIPTION:Politically-charged\, powder keg punk anthems\n\nC’est Qui? w
+ on’t settle for compromise within their witty\, politically-charged punk
+  tunes.Anger is just the tip of the iceberg for this plucky young outfit: 
+ sadness\, frustration\, despair\, resilience and joy\; these are the very 
+ roots from which their scuzzy\, outspoken anthems sprout. C’est Qui? suc
+ k out the poison from society’s festering wounds with pure exuberance an
+ d explosiveness.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-5418ceccd654e54b@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260614T181500Z
+DTEND:20260614T190000Z
+SUMMARY:Lime Garden
+LOCATION:The Casbah
+DESCRIPTION:Hook-heavy & heartfelt indie pop\n\nLime Garden’s irresistibl
+ e blend of post-punk\, synth pop\, and indie rock marries romance with the
+  mundane.On sophomore album Maybe Not Tonight\, the Brighton band illustra
+ te the fickle dynamics of nightlife – where starry-eyed expectations and
+  frantic fun can promptly spiral into melancholy and chaos. Beneath an end
+ less array of cheeky hooks\, sizzling melodies and plunging rhythms\, Lime
+  Garden’s brilliance rests on a fundamental force: their friendship.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-fd7c3648764cbfa6@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260614T200000Z
+DTEND:20260614T220000Z
+SUMMARY:WK Nederland - Japan
+LOCATION:The Casbah
+DESCRIPTION:The World Cup match Netherlands – Japan will be broadcast at 
+ The Casbah\, presented by Kartje Kilo!
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-98b917fdf96df32e@second-brain.local
 DTSTAMP:20260611T103410Z
 DTSTART:20260611T131500Z
 DTEND:20260611T140000Z
@@ -21,7 +455,7 @@ DESCRIPTION:Darkly romantic noise rock up-and-comers\n\nFontaines D.C.\, Th
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:best-kept-secret-2026-a022ca43f33828e7@second-brain.local
+UID:best-kept-secret-2026-56012e7f6f92d93f@second-brain.local
 DTSTAMP:20260611T103410Z
 DTSTART:20260611T144500Z
 DTEND:20260611T153000Z
@@ -39,7 +473,7 @@ DESCRIPTION:Pure-hearted\, cheeky garage bangers\n\nA good riff\, a good ho
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:best-kept-secret-2026-bcc24d07f3338f9b@second-brain.local
+UID:best-kept-secret-2026-fb082d70203b1826@second-brain.local
 DTSTAMP:20260611T103410Z
 DTSTART:20260611T161500Z
 DTEND:20260611T170000Z
@@ -56,7 +490,7 @@ DESCRIPTION:Non-conformist fusion of Dutch rap and theatre\n\nUnder her rap
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:best-kept-secret-2026-9f7aeb2d96ec2632@second-brain.local
+UID:best-kept-secret-2026-18f02231b0380702@second-brain.local
 DTSTAMP:20260611T103410Z
 DTSTART:20260611T174500Z
 DTEND:20260611T183000Z
@@ -73,7 +507,7 @@ DESCRIPTION:Fiery mix of hip-hop\, post-punk and electronics\n\nAdd a Fred
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:best-kept-secret-2026-5cedca1bd8c679c9@second-brain.local
+UID:best-kept-secret-2026-41d4767993e54fa3@second-brain.local
 DTSTAMP:20260611T103410Z
 DTSTART:20260611T191500Z
 DTEND:20260611T200000Z
@@ -89,7 +523,7 @@ DESCRIPTION:Post-hardcore of poetic honesty\n\nMilitarie Gun convert hard l
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:best-kept-secret-2026-a54422f840048aaa@second-brain.local
+UID:best-kept-secret-2026-35c4d2fa1b48b902@second-brain.local
 DTSTAMP:20260611T103410Z
 DTSTART:20260611T204500Z
 DTEND:20260611T213000Z
@@ -105,10 +539,10 @@ DESCRIPTION:Underground electro/hyperpop nonconformist\n\nCutting her teeth
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:best-kept-secret-2026-f766fbe73c5e6852@second-brain.local
+UID:best-kept-secret-2026-a8bfca011ae436e8@second-brain.local
 DTSTAMP:20260611T103410Z
-DTSTART:20260611T221500Z
-DTEND:20260611T230000Z
+DTSTART:20260610T221500Z
+DTEND:20260610T230000Z
 SUMMARY:supermodel*
 LOCATION:The Casbah
 DESCRIPTION:Catchy & distinctive genre-blender with DIY-ethos\n\nUS artist 
@@ -122,10 +556,10 @@ DESCRIPTION:Catchy & distinctive genre-blender with DIY-ethos\n\nUS artist
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:best-kept-secret-2026-5016e14f35250db9@second-brain.local
+UID:best-kept-secret-2026-380a381a3f2b854e@second-brain.local
 DTSTAMP:20260611T103410Z
-DTSTART:20260611T230000Z
-DTEND:20260612T020000Z
+DTSTART:20260610T230000Z
+DTEND:20260611T020000Z
 SUMMARY:Tramhaus (DJ Set)
 LOCATION:The Casbah
 DESCRIPTION:Casbah DJ set by Rotterdam's rowdiest band\n\nTramhaus's snowba
@@ -135,308 +569,6 @@ DESCRIPTION:Casbah DJ set by Rotterdam's rowdiest band\n\nTramhaus's snowba
  ocal and far across the world. A breadth of influences and favorites disti
  lled down to an energetic DJ set at their familiar stomping grounds The Ca
  sbah.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:best-kept-secret-2026-15bac75f0c6c34ca@second-brain.local
-DTSTAMP:20260611T103410Z
-DTSTART:20260612T101500Z
-DTEND:20260612T110000Z
-SUMMARY:Bruno Berle
-LOCATION:The Casbah
-DESCRIPTION:Supple polaroid filter latin pop\n\nThis Brazilian composer and
-  troubadour writes honeysweet latin pop brimming with deft arrangements.\n
- From accounts of people who have been to Brazil\, it does seem like time w
- orks differently over there. Bruno Berle’s warm-blooded pop affirms this
-  notion all the more. Carefree\, soft around the edges and unhurried\, Ber
- le’s tunes embrace you with the kind of affinity of a home-cooked meal. 
- For you lovers out there\, Bruno’s set at Best Kept would be good time t
- o get cosy.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:best-kept-secret-2026-a7855be77ef65cf8@second-brain.local
-DTSTAMP:20260611T103410Z
-DTSTART:20260612T114500Z
-DTEND:20260612T123000Z
-SUMMARY:Any Young Mechanic
-LOCATION:The Casbah
-DESCRIPTION:Jangly indie pop sensation\n\nAfter breaking out with their sun
- -kissed open-the-drapes single 'Snug Barber'\, this Aussie five-piece is i
- mmediately irresistable.\nMaintaining a fine-tuned balance between jangly 
- and cinematic\, Any Young Mechanic recall Vampire Weekend or perhaps a sli
- ghtly more mellowed out Violent Femmes. They embody the comfort of a fraye
- d sweater\, with an affable\, somewhat neurotic charm.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:best-kept-secret-2026-cd1c01ff3698ca0f@second-brain.local
-DTSTAMP:20260611T103410Z
-DTSTART:20260612T131500Z
-DTEND:20260612T140000Z
-SUMMARY:Grote Geelstaart
-LOCATION:The Casbah
-DESCRIPTION:Math-tastic prog-noise minions\n\nImagine Geordie Greep frontin
- g Talking Heads instead of David Byrne: that's just one wild take on the b
- affling madness of rising Dutch outfit Grote Geelstaart.\nIf music was som
- ehow a math equation unlocking the fifth dimension in space\, Grote Geelst
- aart are the kind of band to figure it out\, using odd time signatures\, r
- iffs that scream 'fuck you\, diatonic scale!'\, and a lot of sweating it o
- ut through three-piece suits. Grote Geelstaart's music will flop like fish
-  out of water\, only to magically grow arms and legs on the spot: rock mus
- ic evolving in real time!
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:best-kept-secret-2026-b774e0c1d89cd865@second-brain.local
-DTSTAMP:20260611T103410Z
-DTSTART:20260612T144500Z
-DTEND:20260612T153000Z
-SUMMARY:Etta Marcus
-LOCATION:The Casbah
-DESCRIPTION:Layered and atmospheric indie pop\n\nLonging\, sadness\, grit\,
-  and dark humour: there’s always a lot of emotions coexisting in Etta Ma
- rcus’s songs.\nThat puts the Brixton-based songsmith in a rare echelon o
- f songwriters\, namely touchstones like Fiona Apple\, Hope Sandoval\, Jeff
-  Buckley and Lana del Rey (Marcus opened for the latter). She is adept at 
- bittersweet\, layered gems that reconcile the highest of highs with the lo
- west of lows.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:best-kept-secret-2026-0b59e392e32af725@second-brain.local
-DTSTAMP:20260611T103410Z
-DTSTART:20260612T161500Z
-DTEND:20260612T170000Z
-SUMMARY:Crows
-LOCATION:The Casbah
-DESCRIPTION:Influential post-punk heavy-hitters\n\nThe ragged souls of Crow
- s take flight at Best Kept Secret with a top shelf slab of heavy-melodic p
- ost-punk.\nThe UK band have basically been your favorite band's favorite b
- and\; IDLES' Joe Talbot is one person who has professed how influential th
- ey were to his own group. Often pegged as brooding romantics\, Crows gigs 
- regularly unfold in spiritual\, sweaty communions. Emotional moshpits are 
- often the best\, right?
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:best-kept-secret-2026-e932fa9585cd9f6f@second-brain.local
-DTSTAMP:20260611T103410Z
-DTSTART:20260612T174500Z
-DTEND:20260612T183000Z
-SUMMARY:Midrift
-LOCATION:The Casbah
-DESCRIPTION:Prodigal shoegaze power trio\n\nThe kids are not only embracing
-  shoegaze – they are taking it to someplace new. Midrift pepper in a bit
-  of emo and pop punk to make things interesting. The path of these phenoms
-  is not like some of their forebears\, toiling away with raggedy house sho
- ws at first. Frontman Gus Mehrkam created his songs in his bedroom\, uploa
- ded them on TikTok\, and bang! They became viral hits. With skirmishing si
- blings Kai and Manoa Neukermans completing the power trio\, Midrift are ju
- stly what people call 'an overnight sensation'.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:best-kept-secret-2026-784f05ab91c4fb85@second-brain.local
-DTSTAMP:20260611T103410Z
-DTSTART:20260612T191500Z
-DTEND:20260612T200000Z
-SUMMARY:GHOSTWOMAN
-LOCATION:The Casbah
-DESCRIPTION:Dynamic transatlantic rock duo\n\nNo genre has been declared de
- ad more than rock\; yet the duo of GHOSTWOMAN fancies itself as fiery necr
- omancers\, reinventing its raw power all over again.Canadian Evan Uschenko
-  (guitars/vocals) and Belgian Ille van Dessel (drums/percussion) began the
- ir voyage an entire ocean apart: now their collision course brings new tre
- mors in activity\, exploring rock of the psychedelic\, stoner\, garage and
-  indie variety through the prism of their own infectious chemistry.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:best-kept-secret-2026-4aee05e2e06123df@second-brain.local
-DTSTAMP:20260611T103410Z
-DTSTART:20260612T204500Z
-DTEND:20260612T213000Z
-SUMMARY:Kumo 99
-LOCATION:The Casbah
-DESCRIPTION:Underground hardcore/breakbeat with need for speed\n\nWith big 
- beats and an even bigger attitude\, Kumo 99 put a fresh spin on the deligh
- tfully abrasive rave nostalgia of the 90s.The Los Angeles artist duo of Am
- i Komai and Nate Donmoyer don’t play it subtle when it comes to serving 
- up a clamouring bricolage of breakbeats\, industrial and digitised hardcor
- e. Kumo 99 have toured with artists as diverse as Magdalena Bay and The Ar
- med\, showing that their explosive club anthems will crush in virtually an
- y context.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:best-kept-secret-2026-9791f062a8decb08@second-brain.local
-DTSTAMP:20260611T103410Z
-DTSTART:20260612T221500Z
-DTEND:20260612T230000Z
-SUMMARY:Dame Area
-LOCATION:The Casbah
-DESCRIPTION:Acidic & percussive industrial romps\n\nRemember that one Death
-  Grips-lyric about having the DNA of gothic lemons? It describes Barcelona
-  industrial duo Dame Area to a tee. Their sound is both abrasive and stran
- gely whimsical: hissy\, static-laden textures\, bile-drenched polyrhythms 
- and shouty vocals that sound like they've been recorded in claustrophobic 
- solitary confinement. Dame Area put a fresh and fun spin on industrial mus
- ic\, marrying 'rave' and 'ravenous' in novel\, eye-opening ways.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:best-kept-secret-2026-ce985b804b059596@second-brain.local
-DTSTAMP:20260611T103410Z
-DTSTART:20260612T230000Z
-DTEND:20260613T000000Z
-SUMMARY:MEROL (DJ Debut)
-LOCATION:The Casbah
-DESCRIPTION:Dutch pop's Most Entertaining Role Model\n\nA Casbah DJ set by 
- one of today’s most impactful Dutch artists.\nMEROL is dropping a brand 
- new album. 'Leve de Feeks' is punk\, a middle finger and above all a liber
- ation of the openly sexual\, outspoken woman. For her DJ debut she'll be s
- pinning the tracks that shaped her\, from riot grrrl punk to techno.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:best-kept-secret-2026-51ddd895a6673a4f@second-brain.local
-DTSTAMP:20260611T103410Z
-DTSTART:20260613T000000Z
-DTEND:20260613T020000Z
-SUMMARY:Here's The Thing DJ Set
-LOCATION:The Casbah
-DESCRIPTION:Post-punk\, psych rock\, indie rock and all that goodness inbet
- ween\n\nThere's nothing quite like the squeak of an amp\, the rumble of a 
- bass\, the hiss of cymbals before things are about to get real.\nThese hea
- ds from the recurring Tilburg festival know their stuff when it comes to t
- he latest noise from the fringes. From weirdos in basements to firebrands 
- prowling the bigger stages\, the landscape of genre-pushing guitar-based m
- usic seems more diverse than ever before. Here's The Thing will bundle it 
- all into a supercharged spendour!
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:best-kept-secret-2026-9caedc231dd689dc@second-brain.local
-DTSTAMP:20260611T103410Z
-DTSTART:20260613T100000Z
-DTEND:20260613T104500Z
-SUMMARY:Apichat Pakwan
-LOCATION:The Casbah
-DESCRIPTION:Balmy blend of Thai music & electronics\n\nApichat Pakwan bring
- s a lively crossover of electronics and Thai esan and molam movements: the
-  sweetest balance between the modern and the traditional.It unfolds miracu
- lously live as well: you have producer Olivier Schreuder serving up beats 
- that blend seamlessly with the Thai musicians and singers: not in that cru
- de mash-up kind of way\, but warmly courting each other in a tryst. This a
- pproach carries over to audiences\, creating a hot & sweltering dancefloor
-  environment.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:best-kept-secret-2026-4ea6bb55575d00cd@second-brain.local
-DTSTAMP:20260611T103410Z
-DTSTART:20260613T111500Z
-DTEND:20260613T120000Z
-SUMMARY:DYGL
-LOCATION:The Casbah
-DESCRIPTION:Japanese garage rock torch bearers\n\nJapanese garage rockers D
- YGL (pronounced 'day glo') embody pure exuberance and rebellion with their
-  catchy-as-sin anthems.\nThat the four piece's swagger and songwriting acu
- men holds up against any of their forebears in evident in the fact that Th
- e Strokes' Albert Hammond Jr. decided to take it upon himself to produce D
- YGL's debut album. So who's in the house?Curated by Tramhaus
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:best-kept-secret-2026-6087f17bc509031e@second-brain.local
-DTSTAMP:20260611T103410Z
-DTSTART:20260613T123000Z
-DTEND:20260613T131500Z
-SUMMARY:Servo
-LOCATION:The Casbah
-DESCRIPTION:Brutal psych noise beast\n\nFrench trio Servo are a high mass o
- f pure uncompromising noise rock: dangerous\, devastating and no wasted mo
- vements.\nBrandishing locomotive rhythms\, noise hexes of the spine-chilli
- ng variety and demonic vocals\, Servo aren’t concerned with adding tons 
- of bells and whistles: their songs go straight for the jugular and send au
- diences right back to the stone ages. Hunting season is open this summer. 
- Curated by Tramhaus
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:best-kept-secret-2026-92ed51cb5fb6b09c@second-brain.local
-DTSTAMP:20260611T103410Z
-DTSTART:20260613T134500Z
-DTEND:20260613T143000Z
-SUMMARY:Good Flying Birds
-LOCATION:The Casbah
-DESCRIPTION:Lo-fi jangle pop up-and-comers\n\nGood Flying Birds are a young
-  band who are happy being a throwback: capturing contagious powerpop gems 
- with lo-fi home recordings.\nIt’s no coincidence they are named after a 
- Guided By Voices-song\, a band emblematic of such a sprightly modus operan
- di. Delightfully chaotic\, hodgepodge and impulsive\, the chaos Good Flyin
- g Birds sow with a bunch of instruments in the room seems to inevitably ma
- nifest into tunes you’ll hum along for days on end.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:best-kept-secret-2026-d28c6ff305eafabb@second-brain.local
-DTSTAMP:20260611T103410Z
-DTSTART:20260613T151500Z
-DTEND:20260613T160000Z
-SUMMARY:Another Country $$$$
-LOCATION:The Casbah
-DESCRIPTION:Genre-fluid experimental rock enigma\n\nManchester experimental
-  outfit Another Country $$$$ has no qualms jumping into the deep end: whol
- ly unconcerned with genre tropes\, eternally fluid and free.\nExperimental
-  rock\, IDM\, ambient pop\, mathcore: defining Another Country $$$$ is dep
- endent on who you ask. The group’s creativity isn’t based on fixed out
- comes\, but constant metamorphosis. Chalk it up to a constant remix\, comp
- ulsively courting uncharted sonic expressways.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:best-kept-secret-2026-20f71d8bf5e73ba7@second-brain.local
-DTSTAMP:20260611T103410Z
-DTSTART:20260613T164500Z
-DTEND:20260613T173000Z
-SUMMARY:C'est Qui?
-LOCATION:The Casbah
-DESCRIPTION:Politically-charged\, powder keg punk anthems\n\nC’est Qui? w
- on’t settle for compromise within their witty\, politically-charged punk
-  tunes.Anger is just the tip of the iceberg for this plucky young outfit: 
- sadness\, frustration\, despair\, resilience and joy\; these are the very 
- roots from which their scuzzy\, outspoken anthems sprout. C’est Qui? suc
- k out the poison from society’s festering wounds with pure exuberance an
- d explosiveness.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:best-kept-secret-2026-110ef7392aa6d7bc@second-brain.local
-DTSTAMP:20260611T103410Z
-DTSTART:20260613T181500Z
-DTEND:20260613T190000Z
-SUMMARY:Lime Garden
-LOCATION:The Casbah
-DESCRIPTION:Hook-heavy & heartfelt indie pop\n\nLime Garden’s irresistibl
- e blend of post-punk\, synth pop\, and indie rock marries romance with the
-  mundane.On sophomore album Maybe Not Tonight\, the Brighton band illustra
- te the fickle dynamics of nightlife – where starry-eyed expectations and
-  frantic fun can promptly spiral into melancholy and chaos. Beneath an end
- less array of cheeky hooks\, sizzling melodies and plunging rhythms\, Lime
-  Garden’s brilliance rests on a fundamental force: their friendship.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:best-kept-secret-2026-ac03b36d6cc309e6@second-brain.local
-DTSTAMP:20260611T103410Z
-DTSTART:20260613T200000Z
-DTEND:20260613T220000Z
-SUMMARY:WK Nederland - Japan
-LOCATION:The Casbah
-DESCRIPTION:The World Cup match Netherlands – Japan will be broadcast at 
- The Casbah\, presented by Kartje Kilo!
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR

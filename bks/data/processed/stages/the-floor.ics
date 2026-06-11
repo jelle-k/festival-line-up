@@ -6,10 +6,10 @@ METHOD:PUBLISH
 X-WR-CALNAME:BKS - The Floor
 X-WR-TIMEZONE:Europe/Amsterdam
 BEGIN:VEVENT
-UID:best-kept-secret-2026-20ca1e013c3a42d2@second-brain.local
+UID:best-kept-secret-2026-fdce699295ea760f@second-brain.local
 DTSTAMP:20260611T103410Z
-DTSTART:20260611T120000Z
-DTEND:20260611T150000Z
+DTSTART:20260612T120000Z
+DTEND:20260612T150000Z
 SUMMARY:DJ St. Paul
 LOCATION:The Floor
 DESCRIPTION:The Floor manager who lets it all happen\n\nDJ St. Paul aka the
@@ -25,10 +25,10 @@ DESCRIPTION:The Floor manager who lets it all happen\n\nDJ St. Paul aka the
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:best-kept-secret-2026-2e20243e1751ffe7@second-brain.local
+UID:best-kept-secret-2026-3f774bcd0ffcc276@second-brain.local
 DTSTAMP:20260611T103410Z
-DTSTART:20260611T150000Z
-DTEND:20260611T160000Z
+DTSTART:20260612T150000Z
+DTEND:20260612T160000Z
 SUMMARY:Rimini Express (Vinyl Only Italo Set)
 LOCATION:The Floor
 DESCRIPTION:A devoted missionary for all things Italo\n\nNo fake moustaches
@@ -40,10 +40,10 @@ DESCRIPTION:A devoted missionary for all things Italo\n\nNo fake moustaches
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:best-kept-secret-2026-c313235370002992@second-brain.local
+UID:best-kept-secret-2026-6adb101b7f510abd@second-brain.local
 DTSTAMP:20260611T103410Z
-DTSTART:20260611T160000Z
-DTEND:20260611T170000Z
+DTSTART:20260612T160000Z
+DTEND:20260612T170000Z
 SUMMARY:DJ St. Paul
 LOCATION:The Floor
 DESCRIPTION:The Floor manager who lets it all happen\n\nDJ St. Paul aka the
@@ -59,10 +59,10 @@ DESCRIPTION:The Floor manager who lets it all happen\n\nDJ St. Paul aka the
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:best-kept-secret-2026-29c9e3eab8adc9d6@second-brain.local
+UID:best-kept-secret-2026-6ebdedfb121599a5@second-brain.local
 DTSTAMP:20260611T103410Z
-DTSTART:20260611T170000Z
-DTEND:20260611T180000Z
+DTSTART:20260612T170000Z
+DTEND:20260612T180000Z
 SUMMARY:Kaat van Stralen (DJ Set)
 LOCATION:The Floor
 DESCRIPTION:Genre-defying punk band playing first ever DJ set.\n\nLinguisti
@@ -76,318 +76,9 @@ DESCRIPTION:Genre-defying punk band playing first ever DJ set.\n\nLinguisti
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:best-kept-secret-2026-f8018da35478c0fd@second-brain.local
+UID:best-kept-secret-2026-587b6bd39253cf8f@second-brain.local
 DTSTAMP:20260611T103410Z
-DTSTART:20260611T180000Z
-DTEND:20260611T190000Z
-SUMMARY:DJ St. Paul
-LOCATION:The Floor
-DESCRIPTION:The Floor manager who lets it all happen\n\nDJ St. Paul aka the
-  pundit behind Pop-O-Matic\, aka the honcho of Let It Happen\, aka the chi
- ef facilitator of Best Kept Secret's The Floor.Paul isn’t a floor manage
- r like those at normal work environments\; it’s all play in his book. Ev
- ery year he invites an uncanny list of guests from all corners and crevice
- s of the music world – blasting the biggest hits\, the most vital niches
-  & subcultures\, the juiciest of deep cuts\, and everything inbetween at T
- he Floor. It’s quite literally all hands on deck when St. Paul’s your 
- host – an exploration of pure dance-floor euphoria in all its vast devia
- tions. An individual eternally ready for both the moment and the sound.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:best-kept-secret-2026-bfd379334a09a6c9@second-brain.local
-DTSTAMP:20260611T103410Z
-DTSTART:20260611T190000Z
-DTEND:20260611T200000Z
-SUMMARY:Mr. Cutts
-LOCATION:The Floor
-DESCRIPTION:Influential British producer taking social media by storm(zy)\n
- \nMr. Cutts\, London producer and music’s most instarational guide\, vis
- its The Floor.\nCLASH Magazine wrote about Owen Cutts – specifically his
-  productions for artists like Stormzy\, Jgrrey and Jacob Collier – that 
- he has been involved with some of the best British releases of the past de
- cade. His endless love for the beats\, as well as the originals\, is the d
- riving force behind his immensely popular insta-account. Mr. Cutts flying 
- over for one hour at The Floor? Dusty Springfield singing 'Believe me beli
- eve me!'
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:best-kept-secret-2026-db68fe7fca1d7157@second-brain.local
-DTSTAMP:20260611T103410Z
-DTSTART:20260611T200000Z
-DTEND:20260611T203000Z
-SUMMARY:DJ St. Paul
-LOCATION:The Floor
-DESCRIPTION:The Floor manager who lets it all happen\n\nDJ St. Paul aka the
-  pundit behind Pop-O-Matic\, aka the honcho of Let It Happen\, aka the chi
- ef facilitator of Best Kept Secret's The Floor.Paul isn’t a floor manage
- r like those at normal work environments\; it’s all play in his book. Ev
- ery year he invites an uncanny list of guests from all corners and crevice
- s of the music world – blasting the biggest hits\, the most vital niches
-  & subcultures\, the juiciest of deep cuts\, and everything inbetween at T
- he Floor. It’s quite literally all hands on deck when St. Paul’s your 
- host – an exploration of pure dance-floor euphoria in all its vast devia
- tions. An individual eternally ready for both the moment and the sound.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:best-kept-secret-2026-581bed470bf3d459@second-brain.local
-DTSTAMP:20260611T103410Z
-DTSTART:20260611T203000Z
-DTEND:20260611T213000Z
-SUMMARY:Alice Olsthoorn
-LOCATION:The Floor
-DESCRIPTION:A true icon of the LGBTQ+ community and far beyond\n\nDJ. Artis
- t. Producer. Icon. Pretty much the perfect bio for Alice Olsthoorn in four
-  words.\nBut make no mistake\, she deserves her own Bible. First\, the ele
- ctronically trained musician took TikTok then she took ESNS. Her music is 
- heavily inspired by queer rave culture. Brash\, extravagant\, transformati
- ve\, funny and hyper sexy. The answer to a white man’s stripes and stars
- . It’s Friday and we’re in love with Alice!
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:best-kept-secret-2026-bdf5cf053d603190@second-brain.local
-DTSTAMP:20260611T103410Z
-DTSTART:20260611T213000Z
-DTEND:20260611T220000Z
-SUMMARY:DJ St. Paul
-LOCATION:The Floor
-DESCRIPTION:The Floor manager who lets it all happen\n\nDJ St. Paul aka the
-  pundit behind Pop-O-Matic\, aka the honcho of Let It Happen\, aka the chi
- ef facilitator of Best Kept Secret's The Floor.Paul isn’t a floor manage
- r like those at normal work environments\; it’s all play in his book. Ev
- ery year he invites an uncanny list of guests from all corners and crevice
- s of the music world – blasting the biggest hits\, the most vital niches
-  & subcultures\, the juiciest of deep cuts\, and everything inbetween at T
- he Floor. It’s quite literally all hands on deck when St. Paul’s your 
- host – an exploration of pure dance-floor euphoria in all its vast devia
- tions. An individual eternally ready for both the moment and the sound.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:best-kept-secret-2026-a0c14702d18d0e09@second-brain.local
-DTSTAMP:20260611T103410Z
-DTSTART:20260611T220000Z
-DTEND:20260611T230000Z
-SUMMARY:Ofra
-LOCATION:The Floor
-DESCRIPTION:Together in electric dreams with the finest selection of Synthp
- op\, Postpunk & EBM\n\nFew DJ’s walk the line between electronic music a
- nd your favorite bands as gently as Ofra does.\nYes\, she co-founded the R
- otterdam-based online radio station Operator and runs music platform / lab
- el Yarrow Balle. But as a DJ she is nothing but a travel agent\, guiding u
- s past the depths of synth pop\, wave\, acid\, postpunk\, EBM and shoegaze
-  to emotional heights. No better way to start the night than with the elec
- tric dreams of Ofra.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:best-kept-secret-2026-b4418d6258dcef69@second-brain.local
-DTSTAMP:20260611T103410Z
-DTSTART:20260611T230000Z
-DTEND:20260611T233000Z
-SUMMARY:DJ St. Paul
-LOCATION:The Floor
-DESCRIPTION:The Floor manager who lets it all happen\n\nDJ St. Paul aka the
-  pundit behind Pop-O-Matic\, aka the honcho of Let It Happen\, aka the chi
- ef facilitator of Best Kept Secret's The Floor.Paul isn’t a floor manage
- r like those at normal work environments\; it’s all play in his book. Ev
- ery year he invites an uncanny list of guests from all corners and crevice
- s of the music world – blasting the biggest hits\, the most vital niches
-  & subcultures\, the juiciest of deep cuts\, and everything inbetween at T
- he Floor. It’s quite literally all hands on deck when St. Paul’s your 
- host – an exploration of pure dance-floor euphoria in all its vast devia
- tions. An individual eternally ready for both the moment and the sound.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:best-kept-secret-2026-7beb7392eea7f3fa@second-brain.local
-DTSTAMP:20260611T103410Z
-DTSTART:20260611T233000Z
-DTEND:20260612T003000Z
-SUMMARY:Iliassopdebeat
-LOCATION:The Floor
-DESCRIPTION:Hey girls\, hey boys\, superstar producers\, here we go!\n\nOne
-  of the most celebrated producers of the wild wild west.\nMaking beats at 
- his first Moroccan holidays. Making beats at school. Making beats for brea
- kfast. As a producer and hitmaker Iliassopdebeat wears titles such as “T
- he Dutch Timbaland” like it’s an old pair of sneakers. As a DJ there i
- s a whole new territory opening up. Fresh off his performance with lyrical
-  counterpart MULA B on Stage Two\, Illias will bring the noize like tomorr
- ow never happens.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:best-kept-secret-2026-98dab7b419f6f176@second-brain.local
-DTSTAMP:20260611T103410Z
-DTSTART:20260612T003000Z
-DTEND:20260612T020000Z
-SUMMARY:DJ St. Paul
-LOCATION:The Floor
-DESCRIPTION:The Floor manager who lets it all happen\n\nDJ St. Paul aka the
-  pundit behind Pop-O-Matic\, aka the honcho of Let It Happen\, aka the chi
- ef facilitator of Best Kept Secret's The Floor.Paul isn’t a floor manage
- r like those at normal work environments\; it’s all play in his book. Ev
- ery year he invites an uncanny list of guests from all corners and crevice
- s of the music world – blasting the biggest hits\, the most vital niches
-  & subcultures\, the juiciest of deep cuts\, and everything inbetween at T
- he Floor. It’s quite literally all hands on deck when St. Paul’s your 
- host – an exploration of pure dance-floor euphoria in all its vast devia
- tions. An individual eternally ready for both the moment and the sound.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:best-kept-secret-2026-4d96598c097d9f34@second-brain.local
-DTSTAMP:20260611T103410Z
-DTSTART:20260612T100000Z
-DTEND:20260612T113000Z
-SUMMARY:DJ St. Paul
-LOCATION:The Floor
-DESCRIPTION:The Floor manager who lets it all happen\n\nDJ St. Paul aka the
-  pundit behind Pop-O-Matic\, aka the honcho of Let It Happen\, aka the chi
- ef facilitator of Best Kept Secret's The Floor.Paul isn’t a floor manage
- r like those at normal work environments\; it’s all play in his book. Ev
- ery year he invites an uncanny list of guests from all corners and crevice
- s of the music world – blasting the biggest hits\, the most vital niches
-  & subcultures\, the juiciest of deep cuts\, and everything inbetween at T
- he Floor. It’s quite literally all hands on deck when St. Paul’s your 
- host – an exploration of pure dance-floor euphoria in all its vast devia
- tions. An individual eternally ready for both the moment and the sound.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:best-kept-secret-2026-a5643fa8cc04dc59@second-brain.local
-DTSTAMP:20260611T103410Z
-DTSTART:20260612T113000Z
-DTEND:20260612T123000Z
-SUMMARY:Katayoun
-LOCATION:The Floor
-DESCRIPTION:Collector\, radio host & DJ of Iranian music\n\nKatayoun Arian 
- is a DJ\, selector and archivist working across sounds from Iran and the w
- ider region.\nDrawing on everything from pre-revolution grooves and pop to
-  trance-inducing ritual rhythms\, she builds sets that cut across borders 
- and timelines. Her work moves between deeper listening and dancefloor: it 
- is less about nostalgia\, more about the reactivation of rarities and brin
- ging together different musical worlds\, showing how music can move beyond
-  boundaries.\nPhoto by: Lisa van den Berg
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:best-kept-secret-2026-5b56e5669bcbc3e7@second-brain.local
-DTSTAMP:20260611T103410Z
-DTSTART:20260612T123000Z
-DTEND:20260612T130000Z
-SUMMARY:DJ St. Paul
-LOCATION:The Floor
-DESCRIPTION:The Floor manager who lets it all happen\n\nDJ St. Paul aka the
-  pundit behind Pop-O-Matic\, aka the honcho of Let It Happen\, aka the chi
- ef facilitator of Best Kept Secret's The Floor.Paul isn’t a floor manage
- r like those at normal work environments\; it’s all play in his book. Ev
- ery year he invites an uncanny list of guests from all corners and crevice
- s of the music world – blasting the biggest hits\, the most vital niches
-  & subcultures\, the juiciest of deep cuts\, and everything inbetween at T
- he Floor. It’s quite literally all hands on deck when St. Paul’s your 
- host – an exploration of pure dance-floor euphoria in all its vast devia
- tions. An individual eternally ready for both the moment and the sound.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:best-kept-secret-2026-058a2523ea45142f@second-brain.local
-DTSTAMP:20260611T103410Z
-DTSTART:20260612T130000Z
-DTEND:20260612T140000Z
-SUMMARY:Madra Salach (mostly Irish DJ set)
-LOCATION:The Floor
-DESCRIPTION:Devastatingly beautiful folk band debuting a “Mostly Irish”
-  DJ set\n\nFavourite act on this year’s line-up with a first ever DJ Set
- . A heart’s wish from The Floor! Especially because this will be a (most
- ly) Irish selection.\nFrom indie to traditionals to hip hop\, the Green Wa
- ve is real and it’s so much more than having a Guinness on a terrace in 
- your cycling kit. Listening to Madra Salach is an intense\, all encompassi
- ng experience. How could this possibly translate to a dancefloor? Only one
-  way to discover. Get your Brits Out\, We’Re On A Mad One!
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:best-kept-secret-2026-b926149b7a85afb0@second-brain.local
-DTSTAMP:20260611T103410Z
-DTSTART:20260612T140000Z
-DTEND:20260612T160000Z
-SUMMARY:DJ St. Paul
-LOCATION:The Floor
-DESCRIPTION:The Floor manager who lets it all happen\n\nDJ St. Paul aka the
-  pundit behind Pop-O-Matic\, aka the honcho of Let It Happen\, aka the chi
- ef facilitator of Best Kept Secret's The Floor.Paul isn’t a floor manage
- r like those at normal work environments\; it’s all play in his book. Ev
- ery year he invites an uncanny list of guests from all corners and crevice
- s of the music world – blasting the biggest hits\, the most vital niches
-  & subcultures\, the juiciest of deep cuts\, and everything inbetween at T
- he Floor. It’s quite literally all hands on deck when St. Paul’s your 
- host – an exploration of pure dance-floor euphoria in all its vast devia
- tions. An individual eternally ready for both the moment and the sound.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:best-kept-secret-2026-5f52b1f1fd935990@second-brain.local
-DTSTAMP:20260611T103410Z
-DTSTART:20260612T160000Z
-DTEND:20260612T170000Z
-SUMMARY:Ko Kliko
-LOCATION:The Floor
-DESCRIPTION:Electronic indie crusader on a mission\n\nKo Kliko stands for p
- ostpunk\, electroclash\, indie\, alternative pop and trends that can go ri
- ght in the trashcan.\nIf it is up to Cora Ziengs\, genres are boring. She 
- even has a successful alter ego playing house and jazz (Coco Coquelicot). 
- The passionate DJ is one of the founders of Relate Radio\, a stalwart with
- in the Music scene of Groningen and has made her way to festivals like ESN
- S and Lowlands. Not by giving in\, but by lashing out. The Floor can only 
- approve
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:best-kept-secret-2026-c9bff651a770c02e@second-brain.local
-DTSTAMP:20260611T103410Z
-DTSTART:20260612T170000Z
-DTEND:20260612T173000Z
-SUMMARY:DJ St. Paul
-LOCATION:The Floor
-DESCRIPTION:The Floor manager who lets it all happen\n\nDJ St. Paul aka the
-  pundit behind Pop-O-Matic\, aka the honcho of Let It Happen\, aka the chi
- ef facilitator of Best Kept Secret's The Floor.Paul isn’t a floor manage
- r like those at normal work environments\; it’s all play in his book. Ev
- ery year he invites an uncanny list of guests from all corners and crevice
- s of the music world – blasting the biggest hits\, the most vital niches
-  & subcultures\, the juiciest of deep cuts\, and everything inbetween at T
- he Floor. It’s quite literally all hands on deck when St. Paul’s your 
- host – an exploration of pure dance-floor euphoria in all its vast devia
- tions. An individual eternally ready for both the moment and the sound.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:best-kept-secret-2026-3b27c88cc6cc37af@second-brain.local
-DTSTAMP:20260611T103410Z
-DTSTART:20260612T173000Z
-DTEND:20260612T183000Z
-SUMMARY:25 Years Of Eskimo Recordings (Nadiem Shah)
-LOCATION:The Floor
-DESCRIPTION:Nadiem Shah playing an infectious selection of the influential 
- label from Ghent\n\nThe promised landers have their DFA label. The low lan
- ders have Eskimo Recordings.\nThis highly influential label from Belgium i
- s as much known for its artists (Aeroplane\, Prins Thomas\, Aili) as it is
-  for its compilations. It all started with the eclectic parties that took 
- place during the late nineties in the Eskimo Fabriek in Ghent. These under
- ground parties got famous for mixing new wave\, acid\, funk and rock ‘n
- ’ roll\, introducing local DJs such as The Glimmers and The Flying Dewae
- le Brothers. At The Floor label manager Nadiem Shah will takes us through 
- 25 years of leftfield clubbing. Cooler than being cool. Eskimo!
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:best-kept-secret-2026-d86ce71bd688db79@second-brain.local
-DTSTAMP:20260611T103410Z
-DTSTART:20260612T183000Z
+DTSTART:20260612T180000Z
 DTEND:20260612T190000Z
 SUMMARY:DJ St. Paul
 LOCATION:The Floor
@@ -404,29 +95,28 @@ DESCRIPTION:The Floor manager who lets it all happen\n\nDJ St. Paul aka the
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:best-kept-secret-2026-64e6bb79629f6a65@second-brain.local
+UID:best-kept-secret-2026-acd2629889d6141a@second-brain.local
 DTSTAMP:20260611T103410Z
 DTSTART:20260612T190000Z
 DTEND:20260612T200000Z
-SUMMARY:Ineffekt
+SUMMARY:Mr. Cutts
 LOCATION:The Floor
-DESCRIPTION:Bass-heavy but light-hearted producer on the rise\n\nMasterful 
- Dutch producer gaining international momentum with his bass-heavy but ligh
- t-hearted sound.\nAfter Sammy Virji and MEGRA before him\, this years UK B
- ass inspired golden hour at The Floor will go to our own Ineffekt. His tra
- cks are frequently supported by producers like Four Tet and platforms such
-  as the BBC\, but are just as easily the main ingredient for eclectic DJ
- ’s like host DJ St. Paul who couldn’t be more proud to present this tr
- ue gem of an artist. More than an icon. At the exact heart of the festival
-  this will be the soundtrack to your new found hopes and dreams. No refund
-  for lost chagrin!
+DESCRIPTION:Influential British producer taking social media by storm(zy)\n
+ \nMr. Cutts\, London producer and music’s most instarational guide\, vis
+ its The Floor.\nCLASH Magazine wrote about Owen Cutts – specifically his
+  productions for artists like Stormzy\, Jgrrey and Jacob Collier – that 
+ he has been involved with some of the best British releases of the past de
+ cade. His endless love for the beats\, as well as the originals\, is the d
+ riving force behind his immensely popular insta-account. Mr. Cutts flying 
+ over for one hour at The Floor? Dusty Springfield singing 'Believe me beli
+ eve me!'
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:best-kept-secret-2026-82bccf7f1b75d99e@second-brain.local
+UID:best-kept-secret-2026-4750894174078f3a@second-brain.local
 DTSTAMP:20260611T103410Z
 DTSTART:20260612T200000Z
-DTEND:20260612T210000Z
+DTEND:20260612T203000Z
 SUMMARY:DJ St. Paul
 LOCATION:The Floor
 DESCRIPTION:The Floor manager who lets it all happen\n\nDJ St. Paul aka the
@@ -442,81 +132,117 @@ DESCRIPTION:The Floor manager who lets it all happen\n\nDJ St. Paul aka the
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:best-kept-secret-2026-cf977cff4ece1d88@second-brain.local
+UID:best-kept-secret-2026-5302ff8f8ce7eb42@second-brain.local
 DTSTAMP:20260611T103410Z
-DTSTART:20260612T210000Z
-DTEND:20260612T220000Z
-SUMMARY:Nymfo B2B Zohar
+DTSTART:20260612T203000Z
+DTEND:20260612T213000Z
+SUMMARY:Alice Olsthoorn
 LOCATION:The Floor
-DESCRIPTION:A highly anticipated communion of forward-thinking club sonics.
- \n\nZohar & Nymfo are bringing together two distinct\, complementary force
- s in electronic music.\nKnown for her technical refinement and mixing wiza
- rdry\, Zohar is always pushing listeners into new territory. With releases
-  on labels like Metalheadz and Hospital Records\, Nymfo is a beloved mains
- tay in the jungle and rave scene. With this unique B2B the two artists are
-  celebrating their magnificent joint release on Dekmantel and a communion 
- of souls united in forward thinking club sonics
+DESCRIPTION:A true icon of the LGBTQ+ community and far beyond\n\nDJ. Artis
+ t. Producer. Icon. Pretty much the perfect bio for Alice Olsthoorn in four
+  words.\nBut make no mistake\, she deserves her own Bible. First\, the ele
+ ctronically trained musician took TikTok then she took ESNS. Her music is 
+ heavily inspired by queer rave culture. Brash\, extravagant\, transformati
+ ve\, funny and hyper sexy. The answer to a white man’s stripes and stars
+ . It’s Friday and we’re in love with Alice!
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:best-kept-secret-2026-e588f0a94ecae3a5@second-brain.local
+UID:best-kept-secret-2026-ad345e29ccf7cc33@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260612T213000Z
+DTEND:20260612T220000Z
+SUMMARY:DJ St. Paul
+LOCATION:The Floor
+DESCRIPTION:The Floor manager who lets it all happen\n\nDJ St. Paul aka the
+  pundit behind Pop-O-Matic\, aka the honcho of Let It Happen\, aka the chi
+ ef facilitator of Best Kept Secret's The Floor.Paul isn’t a floor manage
+ r like those at normal work environments\; it’s all play in his book. Ev
+ ery year he invites an uncanny list of guests from all corners and crevice
+ s of the music world – blasting the biggest hits\, the most vital niches
+  & subcultures\, the juiciest of deep cuts\, and everything inbetween at T
+ he Floor. It’s quite literally all hands on deck when St. Paul’s your 
+ host – an exploration of pure dance-floor euphoria in all its vast devia
+ tions. An individual eternally ready for both the moment and the sound.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-79f3ead51819299e@second-brain.local
 DTSTAMP:20260611T103410Z
 DTSTART:20260612T220000Z
 DTEND:20260612T230000Z
-SUMMARY:DJ St. Paul
+SUMMARY:Ofra
 LOCATION:The Floor
-DESCRIPTION:The Floor manager who lets it all happen\n\nDJ St. Paul aka the
-  pundit behind Pop-O-Matic\, aka the honcho of Let It Happen\, aka the chi
- ef facilitator of Best Kept Secret's The Floor.Paul isn’t a floor manage
- r like those at normal work environments\; it’s all play in his book. Ev
- ery year he invites an uncanny list of guests from all corners and crevice
- s of the music world – blasting the biggest hits\, the most vital niches
-  & subcultures\, the juiciest of deep cuts\, and everything inbetween at T
- he Floor. It’s quite literally all hands on deck when St. Paul’s your 
- host – an exploration of pure dance-floor euphoria in all its vast devia
- tions. An individual eternally ready for both the moment and the sound.
+DESCRIPTION:Together in electric dreams with the finest selection of Synthp
+ op\, Postpunk & EBM\n\nFew DJ’s walk the line between electronic music a
+ nd your favorite bands as gently as Ofra does.\nYes\, she co-founded the R
+ otterdam-based online radio station Operator and runs music platform / lab
+ el Yarrow Balle. But as a DJ she is nothing but a travel agent\, guiding u
+ s past the depths of synth pop\, wave\, acid\, postpunk\, EBM and shoegaze
+  to emotional heights. No better way to start the night than with the elec
+ tric dreams of Ofra.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:best-kept-secret-2026-fe5edd99e1a37995@second-brain.local
+UID:best-kept-secret-2026-569c568b558e5a5c@second-brain.local
 DTSTAMP:20260611T103410Z
 DTSTART:20260612T230000Z
-DTEND:20260613T000000Z
-SUMMARY:Ajuma
+DTEND:20260612T233000Z
+SUMMARY:DJ St. Paul
 LOCATION:The Floor
-DESCRIPTION:Celebrating organic sounds in a dystopian world\n\nAjuma unders
- tands the power of music to evoke emotions like no other.\nShe’s an arde
- nt music lover with an ear for the surprising and obscure. Wherever she go
- es\, she leaves behind a warm and inviting atmosphere on the dancefloor\, 
- blending together genres into a recognizable sound that is always soulful 
- oriented. She moves between deeper and uplifting moments\, at the heart of
-  her sound lies an endless love for that (raw) percussion. Ajuma is openin
- g borders. Surrender your love!
+DESCRIPTION:The Floor manager who lets it all happen\n\nDJ St. Paul aka the
+  pundit behind Pop-O-Matic\, aka the honcho of Let It Happen\, aka the chi
+ ef facilitator of Best Kept Secret's The Floor.Paul isn’t a floor manage
+ r like those at normal work environments\; it’s all play in his book. Ev
+ ery year he invites an uncanny list of guests from all corners and crevice
+ s of the music world – blasting the biggest hits\, the most vital niches
+  & subcultures\, the juiciest of deep cuts\, and everything inbetween at T
+ he Floor. It’s quite literally all hands on deck when St. Paul’s your 
+ host – an exploration of pure dance-floor euphoria in all its vast devia
+ tions. An individual eternally ready for both the moment and the sound.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:best-kept-secret-2026-38a7a0d58511a923@second-brain.local
+UID:best-kept-secret-2026-308fd61eec135304@second-brain.local
 DTSTAMP:20260611T103410Z
-DTSTART:20260613T000000Z
-DTEND:20260613T020000Z
-SUMMARY:The Great Indie Dance Bake Off (DJ St. Paul B2B Riptide)
+DTSTART:20260612T233000Z
+DTEND:20260613T003000Z
+SUMMARY:Iliassopdebeat
 LOCATION:The Floor
-DESCRIPTION:Gifted producer and passionate Floor-manager breaking down the 
- history of indie dance\n\nI was there! Producer Riptide and host DJ St. Pa
- ul present the premiere of The Great Indie Dance Bake Off.The finale of Sa
- turday night at the Floor has a tradition of memorable B2Bs. This time pro
- ducer Riptide (his Rug Busters remix for Personal Trainer is what Charli w
- ould call a modern-day club classic) and DJ St. Paul will take you on an c
- olourful journey through the history of indie dance. Travelling from Talki
- ng Heads via Gorillaz to Decius and Robyn. Premiering some of their own ed
- its of favourite tracks. Oh\, if I could see all my friends tonight!
+DESCRIPTION:Hey girls\, hey boys\, superstar producers\, here we go!\n\nOne
+  of the most celebrated producers of the wild wild west.\nMaking beats at 
+ his first Moroccan holidays. Making beats at school. Making beats for brea
+ kfast. As a producer and hitmaker Iliassopdebeat wears titles such as “T
+ he Dutch Timbaland” like it’s an old pair of sneakers. As a DJ there i
+ s a whole new territory opening up. Fresh off his performance with lyrical
+  counterpart MULA B on Stage Two\, Illias will bring the noize like tomorr
+ ow never happens.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:best-kept-secret-2026-578e9139c8ef8ec7@second-brain.local
+UID:best-kept-secret-2026-37b5ff27765845ed@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260613T003000Z
+DTEND:20260613T020000Z
+SUMMARY:DJ St. Paul
+LOCATION:The Floor
+DESCRIPTION:The Floor manager who lets it all happen\n\nDJ St. Paul aka the
+  pundit behind Pop-O-Matic\, aka the honcho of Let It Happen\, aka the chi
+ ef facilitator of Best Kept Secret's The Floor.Paul isn’t a floor manage
+ r like those at normal work environments\; it’s all play in his book. Ev
+ ery year he invites an uncanny list of guests from all corners and crevice
+ s of the music world – blasting the biggest hits\, the most vital niches
+  & subcultures\, the juiciest of deep cuts\, and everything inbetween at T
+ he Floor. It’s quite literally all hands on deck when St. Paul’s your 
+ host – an exploration of pure dance-floor euphoria in all its vast devia
+ tions. An individual eternally ready for both the moment and the sound.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-fa64145727ddb67c@second-brain.local
 DTSTAMP:20260611T103410Z
 DTSTART:20260613T100000Z
-DTEND:20260613T120000Z
+DTEND:20260613T113000Z
 SUMMARY:DJ St. Paul
 LOCATION:The Floor
 DESCRIPTION:The Floor manager who lets it all happen\n\nDJ St. Paul aka the
@@ -532,29 +258,27 @@ DESCRIPTION:The Floor manager who lets it all happen\n\nDJ St. Paul aka the
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:best-kept-secret-2026-4f975d313f3df1cb@second-brain.local
+UID:best-kept-secret-2026-84479c104aaec69b@second-brain.local
 DTSTAMP:20260611T103410Z
-DTSTART:20260613T120000Z
-DTEND:20260613T124500Z
-SUMMARY:Sheyma (Live)
+DTSTART:20260613T113000Z
+DTEND:20260613T123000Z
+SUMMARY:Katayoun
 LOCATION:The Floor
-DESCRIPTION:A commanding voice blending Western and Arab culture\n\nBreatht
- aking singer with a live performance that blends electronic beats and trad
- itional Arab music.\nOne of the crowd favourites at the recent edition of 
- the Grauzone Festival\, Sheyma Rochdi is destroying boring borders with he
- r sound\, one as intimate as it is riotous. A voice that needs to be heard
-  to be believed. Sheyma's music is inspired by influences from different g
- enres of Moroccan music such as Gnawa music\, Moroccan Chaabi mixed with A
- rabic alternative. While her vocals are connected to traditions of Arabic 
- music\, the structures of the songs are very remote from its codes. True f
- reedom this way lies.
+DESCRIPTION:Collector\, radio host & DJ of Iranian music\n\nKatayoun Arian 
+ is a DJ\, selector and archivist working across sounds from Iran and the w
+ ider region.\nDrawing on everything from pre-revolution grooves and pop to
+  trance-inducing ritual rhythms\, she builds sets that cut across borders 
+ and timelines. Her work moves between deeper listening and dancefloor: it 
+ is less about nostalgia\, more about the reactivation of rarities and brin
+ ging together different musical worlds\, showing how music can move beyond
+  boundaries.\nPhoto by: Lisa van den Berg
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:best-kept-secret-2026-6a51f82fa58a1492@second-brain.local
+UID:best-kept-secret-2026-bddf51dc0a26e077@second-brain.local
 DTSTAMP:20260611T103410Z
-DTSTART:20260613T124500Z
-DTEND:20260613T131500Z
+DTSTART:20260613T123000Z
+DTEND:20260613T130000Z
 SUMMARY:DJ St. Paul
 LOCATION:The Floor
 DESCRIPTION:The Floor manager who lets it all happen\n\nDJ St. Paul aka the
@@ -570,64 +294,26 @@ DESCRIPTION:The Floor manager who lets it all happen\n\nDJ St. Paul aka the
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:best-kept-secret-2026-51197067d1fde37e@second-brain.local
+UID:best-kept-secret-2026-46e076cb2de9c0fc@second-brain.local
 DTSTAMP:20260611T103410Z
-DTSTART:20260613T131500Z
-DTEND:20260613T141500Z
-SUMMARY:KROON (Kypski Live Set)
+DTSTART:20260613T130000Z
+DTEND:20260613T140000Z
+SUMMARY:Madra Salach (mostly Irish DJ set)
 LOCATION:The Floor
-DESCRIPTION:Legendary beatmaker and turntablist with his latest crowning ac
- hievement\n\nKROON is an electronic masterclass of Kypski\, Kubus and Hajo
- \, that started at Best Kept Secret.\nMythical Tilburg musician and gentle
-  soul Hajo Krijger sadly passed away in the summer of 2025. Such a shame t
- hat he could’t live to see the release of the KROON album this year. The
-  live show at The Floor is an ode to him and the music the three producers
-  made together. Kypski will perform their unique blend of early dubstep\, 
- blistering electronics and gritty beats live with also some classic jungle
-  and hip hop in the mix. As much a memorial as it is a celebration of life
-  and music. Let us all together be the heavy head that wears the crown.
+DESCRIPTION:Devastatingly beautiful folk band debuting a “Mostly Irish”
+  DJ set\n\nFavourite act on this year’s line-up with a first ever DJ Set
+ . A heart’s wish from The Floor! Especially because this will be a (most
+ ly) Irish selection.\nFrom indie to traditionals to hip hop\, the Green Wa
+ ve is real and it’s so much more than having a Guinness on a terrace in 
+ your cycling kit. Listening to Madra Salach is an intense\, all encompassi
+ ng experience. How could this possibly translate to a dancefloor? Only one
+  way to discover. Get your Brits Out\, We’Re On A Mad One!
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:best-kept-secret-2026-dd93a3b39f00d421@second-brain.local
+UID:best-kept-secret-2026-89e9c3050e1300b7@second-brain.local
 DTSTAMP:20260611T103410Z
-DTSTART:20260613T141500Z
-DTEND:20260613T143000Z
-SUMMARY:DJ St. Paul
-LOCATION:The Floor
-DESCRIPTION:The Floor manager who lets it all happen\n\nDJ St. Paul aka the
-  pundit behind Pop-O-Matic\, aka the honcho of Let It Happen\, aka the chi
- ef facilitator of Best Kept Secret's The Floor.Paul isn’t a floor manage
- r like those at normal work environments\; it’s all play in his book. Ev
- ery year he invites an uncanny list of guests from all corners and crevice
- s of the music world – blasting the biggest hits\, the most vital niches
-  & subcultures\, the juiciest of deep cuts\, and everything inbetween at T
- he Floor. It’s quite literally all hands on deck when St. Paul’s your 
- host – an exploration of pure dance-floor euphoria in all its vast devia
- tions. An individual eternally ready for both the moment and the sound.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:best-kept-secret-2026-ab3f37ac19fdbb7c@second-brain.local
-DTSTAMP:20260611T103410Z
-DTSTART:20260613T143000Z
-DTEND:20260613T153000Z
-SUMMARY:Girls to the Front (DJ Set)
-LOCATION:The Floor
-DESCRIPTION:Modern day riot girl representing FLINTA punk\n\nBibi Fay Banni
- nk\, an 18 year old feminist punk fan with a plan\, started Girls To The F
- ront to represent the FLINTA community.\nTaking inspiration from the Riot 
- Grrrl movement this grew out to a compilation of FLINTA-fronted punk bands
- \, an extensive club tour plus interdisciplinary events with poetry\, film
-  talks and panels. This DJ-set will show the depths of FLINTA* punk. From 
- the Dutch underground scene to Pakistani-American wave to Javanese electro
-  Bibi will celebrate identities through punk as a lifestyle.
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:best-kept-secret-2026-3cde7d3e71238b3e@second-brain.local
-DTSTAMP:20260611T103410Z
-DTSTART:20260613T153000Z
+DTSTART:20260613T140000Z
 DTEND:20260613T160000Z
 SUMMARY:DJ St. Paul
 LOCATION:The Floor
@@ -644,23 +330,24 @@ DESCRIPTION:The Floor manager who lets it all happen\n\nDJ St. Paul aka the
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:best-kept-secret-2026-b2d7e5dee64c7cde@second-brain.local
+UID:best-kept-secret-2026-446f8e8a598f63d5@second-brain.local
 DTSTAMP:20260611T103410Z
 DTSTART:20260613T160000Z
 DTEND:20260613T170000Z
-SUMMARY:Lucky Done Gone B2B Sef
+SUMMARY:Ko Kliko
 LOCATION:The Floor
-DESCRIPTION:Two likeminded artists taking us on a joyous safari\n\nOnce in 
- a lifetime back-to-back between two spiritually connected Best Kept Secret
-  ‘26 artists.\nProducer and DJ Lucky Done Gone casually plays that sense
-  of euphoria back in your life. Rapper\, musician and two-time The Floor D
- J Sef guides your emotions like the chief conductor of song he is. A “Fe
- el Good Inc” some primates in the Beeksonian Mountains are already whisp
- ering about this unique collaboration.
+DESCRIPTION:Electronic indie crusader on a mission\n\nKo Kliko stands for p
+ ostpunk\, electroclash\, indie\, alternative pop and trends that can go ri
+ ght in the trashcan.\nIf it is up to Cora Ziengs\, genres are boring. She 
+ even has a successful alter ego playing house and jazz (Coco Coquelicot). 
+ The passionate DJ is one of the founders of Relate Radio\, a stalwart with
+ in the Music scene of Groningen and has made her way to festivals like ESN
+ S and Lowlands. Not by giving in\, but by lashing out. The Floor can only 
+ approve
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:best-kept-secret-2026-336872e103682445@second-brain.local
+UID:best-kept-secret-2026-e2bd135378faf6c9@second-brain.local
 DTSTAMP:20260611T103410Z
 DTSTART:20260613T170000Z
 DTEND:20260613T173000Z
@@ -679,43 +366,29 @@ DESCRIPTION:The Floor manager who lets it all happen\n\nDJ St. Paul aka the
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:best-kept-secret-2026-11f17c3ab13a3551@second-brain.local
+UID:best-kept-secret-2026-f8297962b251277d@second-brain.local
 DTSTAMP:20260611T103410Z
 DTSTART:20260613T173000Z
+DTEND:20260613T183000Z
+SUMMARY:25 Years Of Eskimo Recordings (Nadiem Shah)
+LOCATION:The Floor
+DESCRIPTION:Nadiem Shah playing an infectious selection of the influential 
+ label from Ghent\n\nThe promised landers have their DFA label. The low lan
+ ders have Eskimo Recordings.\nThis highly influential label from Belgium i
+ s as much known for its artists (Aeroplane\, Prins Thomas\, Aili) as it is
+  for its compilations. It all started with the eclectic parties that took 
+ place during the late nineties in the Eskimo Fabriek in Ghent. These under
+ ground parties got famous for mixing new wave\, acid\, funk and rock ‘n
+ ’ roll\, introducing local DJs such as The Glimmers and The Flying Dewae
+ le Brothers. At The Floor label manager Nadiem Shah will takes us through 
+ 25 years of leftfield clubbing. Cooler than being cool. Eskimo!
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-2236beb06d67e765@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260613T183000Z
 DTEND:20260613T190000Z
-SUMMARY:Marie Davidson (DJ set)
-LOCATION:The Floor
-DESCRIPTION:Canadian furnisher of floor fillers with extra long DJ set\n\nM
- arie Davidson is like an ongoing subscription to your favourite dance floo
- r. Her music works\, all the fucking time.\nPitchfork called her 2025 albu
- m City of Clowns “bangers-only art that smashes binaries”. The Canadia
- n artist is a war poet\, a power plant providing much needed energy in dys
- topian times. Together with the production duties of Soulwax this makes fo
- r furious dancing. So proud to have her over for an extra extended DJ set.
-  Give me passion\, give me more\, I want your ass on The Floor!
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:best-kept-secret-2026-01202bd4a910c382@second-brain.local
-DTSTAMP:20260611T103410Z
-DTSTART:20260613T190000Z
-DTEND:20260613T200000Z
-SUMMARY:Aili & Orson (Japanese DJ Set)
-LOCATION:The Floor
-DESCRIPTION:Electro-pop duo visiting Japanese roots in unique DJ Set\n\nAil
- i is a Belgium-Japanese electro-pop duo consisting of Aili Maruyama and Or
- son Wouters.\nTheir instant musical chemistry led to a playful and spontan
- eous approach to songwriting\, combining electronic beats\, samples\, and 
- Aili's unique blend of Japanese vocals. A highlight within the recent outp
- ut of the infamous Eskimo Recordings label. Who needs a game of football a
- gainst the Japanese when you dance to their music too!!
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:best-kept-secret-2026-a212e02de08eb473@second-brain.local
-DTSTAMP:20260611T103410Z
-DTSTART:20260613T200000Z
-DTEND:20260613T203000Z
 SUMMARY:DJ St. Paul
 LOCATION:The Floor
 DESCRIPTION:The Floor manager who lets it all happen\n\nDJ St. Paul aka the
@@ -731,10 +404,337 @@ DESCRIPTION:The Floor manager who lets it all happen\n\nDJ St. Paul aka the
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:best-kept-secret-2026-8d42e45167fe80c5@second-brain.local
+UID:best-kept-secret-2026-6296fb271eff5ce9@second-brain.local
 DTSTAMP:20260611T103410Z
-DTSTART:20260613T203000Z
-DTEND:20260613T213000Z
+DTSTART:20260613T190000Z
+DTEND:20260613T200000Z
+SUMMARY:Ineffekt
+LOCATION:The Floor
+DESCRIPTION:Bass-heavy but light-hearted producer on the rise\n\nMasterful 
+ Dutch producer gaining international momentum with his bass-heavy but ligh
+ t-hearted sound.\nAfter Sammy Virji and MEGRA before him\, this years UK B
+ ass inspired golden hour at The Floor will go to our own Ineffekt. His tra
+ cks are frequently supported by producers like Four Tet and platforms such
+  as the BBC\, but are just as easily the main ingredient for eclectic DJ
+ ’s like host DJ St. Paul who couldn’t be more proud to present this tr
+ ue gem of an artist. More than an icon. At the exact heart of the festival
+  this will be the soundtrack to your new found hopes and dreams. No refund
+  for lost chagrin!
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-9699ef38f4f1516a@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260613T200000Z
+DTEND:20260613T210000Z
+SUMMARY:DJ St. Paul
+LOCATION:The Floor
+DESCRIPTION:The Floor manager who lets it all happen\n\nDJ St. Paul aka the
+  pundit behind Pop-O-Matic\, aka the honcho of Let It Happen\, aka the chi
+ ef facilitator of Best Kept Secret's The Floor.Paul isn’t a floor manage
+ r like those at normal work environments\; it’s all play in his book. Ev
+ ery year he invites an uncanny list of guests from all corners and crevice
+ s of the music world – blasting the biggest hits\, the most vital niches
+  & subcultures\, the juiciest of deep cuts\, and everything inbetween at T
+ he Floor. It’s quite literally all hands on deck when St. Paul’s your 
+ host – an exploration of pure dance-floor euphoria in all its vast devia
+ tions. An individual eternally ready for both the moment and the sound.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-85b60c503c89567c@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260613T210000Z
+DTEND:20260613T220000Z
+SUMMARY:Nymfo B2B Zohar
+LOCATION:The Floor
+DESCRIPTION:A highly anticipated communion of forward-thinking club sonics.
+ \n\nZohar & Nymfo are bringing together two distinct\, complementary force
+ s in electronic music.\nKnown for her technical refinement and mixing wiza
+ rdry\, Zohar is always pushing listeners into new territory. With releases
+  on labels like Metalheadz and Hospital Records\, Nymfo is a beloved mains
+ tay in the jungle and rave scene. With this unique B2B the two artists are
+  celebrating their magnificent joint release on Dekmantel and a communion 
+ of souls united in forward thinking club sonics
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-96837c9dfaa0aa1f@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260613T220000Z
+DTEND:20260613T230000Z
+SUMMARY:DJ St. Paul
+LOCATION:The Floor
+DESCRIPTION:The Floor manager who lets it all happen\n\nDJ St. Paul aka the
+  pundit behind Pop-O-Matic\, aka the honcho of Let It Happen\, aka the chi
+ ef facilitator of Best Kept Secret's The Floor.Paul isn’t a floor manage
+ r like those at normal work environments\; it’s all play in his book. Ev
+ ery year he invites an uncanny list of guests from all corners and crevice
+ s of the music world – blasting the biggest hits\, the most vital niches
+  & subcultures\, the juiciest of deep cuts\, and everything inbetween at T
+ he Floor. It’s quite literally all hands on deck when St. Paul’s your 
+ host – an exploration of pure dance-floor euphoria in all its vast devia
+ tions. An individual eternally ready for both the moment and the sound.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-897274aeef7341cb@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260613T230000Z
+DTEND:20260614T000000Z
+SUMMARY:Ajuma
+LOCATION:The Floor
+DESCRIPTION:Celebrating organic sounds in a dystopian world\n\nAjuma unders
+ tands the power of music to evoke emotions like no other.\nShe’s an arde
+ nt music lover with an ear for the surprising and obscure. Wherever she go
+ es\, she leaves behind a warm and inviting atmosphere on the dancefloor\, 
+ blending together genres into a recognizable sound that is always soulful 
+ oriented. She moves between deeper and uplifting moments\, at the heart of
+  her sound lies an endless love for that (raw) percussion. Ajuma is openin
+ g borders. Surrender your love!
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-45c75469e05233e4@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260614T000000Z
+DTEND:20260614T020000Z
+SUMMARY:The Great Indie Dance Bake Off (DJ St. Paul B2B Riptide)
+LOCATION:The Floor
+DESCRIPTION:Gifted producer and passionate Floor-manager breaking down the 
+ history of indie dance\n\nI was there! Producer Riptide and host DJ St. Pa
+ ul present the premiere of The Great Indie Dance Bake Off.The finale of Sa
+ turday night at the Floor has a tradition of memorable B2Bs. This time pro
+ ducer Riptide (his Rug Busters remix for Personal Trainer is what Charli w
+ ould call a modern-day club classic) and DJ St. Paul will take you on an c
+ olourful journey through the history of indie dance. Travelling from Talki
+ ng Heads via Gorillaz to Decius and Robyn. Premiering some of their own ed
+ its of favourite tracks. Oh\, if I could see all my friends tonight!
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-93df21581b68e43c@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260614T100000Z
+DTEND:20260614T120000Z
+SUMMARY:DJ St. Paul
+LOCATION:The Floor
+DESCRIPTION:The Floor manager who lets it all happen\n\nDJ St. Paul aka the
+  pundit behind Pop-O-Matic\, aka the honcho of Let It Happen\, aka the chi
+ ef facilitator of Best Kept Secret's The Floor.Paul isn’t a floor manage
+ r like those at normal work environments\; it’s all play in his book. Ev
+ ery year he invites an uncanny list of guests from all corners and crevice
+ s of the music world – blasting the biggest hits\, the most vital niches
+  & subcultures\, the juiciest of deep cuts\, and everything inbetween at T
+ he Floor. It’s quite literally all hands on deck when St. Paul’s your 
+ host – an exploration of pure dance-floor euphoria in all its vast devia
+ tions. An individual eternally ready for both the moment and the sound.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-fd342c853a859759@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260614T120000Z
+DTEND:20260614T124500Z
+SUMMARY:Sheyma (Live)
+LOCATION:The Floor
+DESCRIPTION:A commanding voice blending Western and Arab culture\n\nBreatht
+ aking singer with a live performance that blends electronic beats and trad
+ itional Arab music.\nOne of the crowd favourites at the recent edition of 
+ the Grauzone Festival\, Sheyma Rochdi is destroying boring borders with he
+ r sound\, one as intimate as it is riotous. A voice that needs to be heard
+  to be believed. Sheyma's music is inspired by influences from different g
+ enres of Moroccan music such as Gnawa music\, Moroccan Chaabi mixed with A
+ rabic alternative. While her vocals are connected to traditions of Arabic 
+ music\, the structures of the songs are very remote from its codes. True f
+ reedom this way lies.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-b69de2eed5817200@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260614T124500Z
+DTEND:20260614T131500Z
+SUMMARY:DJ St. Paul
+LOCATION:The Floor
+DESCRIPTION:The Floor manager who lets it all happen\n\nDJ St. Paul aka the
+  pundit behind Pop-O-Matic\, aka the honcho of Let It Happen\, aka the chi
+ ef facilitator of Best Kept Secret's The Floor.Paul isn’t a floor manage
+ r like those at normal work environments\; it’s all play in his book. Ev
+ ery year he invites an uncanny list of guests from all corners and crevice
+ s of the music world – blasting the biggest hits\, the most vital niches
+  & subcultures\, the juiciest of deep cuts\, and everything inbetween at T
+ he Floor. It’s quite literally all hands on deck when St. Paul’s your 
+ host – an exploration of pure dance-floor euphoria in all its vast devia
+ tions. An individual eternally ready for both the moment and the sound.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-3adabf46f8cbeb85@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260614T131500Z
+DTEND:20260614T141500Z
+SUMMARY:KROON (Kypski Live Set)
+LOCATION:The Floor
+DESCRIPTION:Legendary beatmaker and turntablist with his latest crowning ac
+ hievement\n\nKROON is an electronic masterclass of Kypski\, Kubus and Hajo
+ \, that started at Best Kept Secret.\nMythical Tilburg musician and gentle
+  soul Hajo Krijger sadly passed away in the summer of 2025. Such a shame t
+ hat he could’t live to see the release of the KROON album this year. The
+  live show at The Floor is an ode to him and the music the three producers
+  made together. Kypski will perform their unique blend of early dubstep\, 
+ blistering electronics and gritty beats live with also some classic jungle
+  and hip hop in the mix. As much a memorial as it is a celebration of life
+  and music. Let us all together be the heavy head that wears the crown.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-bd076ff699ef56e0@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260614T141500Z
+DTEND:20260614T143000Z
+SUMMARY:DJ St. Paul
+LOCATION:The Floor
+DESCRIPTION:The Floor manager who lets it all happen\n\nDJ St. Paul aka the
+  pundit behind Pop-O-Matic\, aka the honcho of Let It Happen\, aka the chi
+ ef facilitator of Best Kept Secret's The Floor.Paul isn’t a floor manage
+ r like those at normal work environments\; it’s all play in his book. Ev
+ ery year he invites an uncanny list of guests from all corners and crevice
+ s of the music world – blasting the biggest hits\, the most vital niches
+  & subcultures\, the juiciest of deep cuts\, and everything inbetween at T
+ he Floor. It’s quite literally all hands on deck when St. Paul’s your 
+ host – an exploration of pure dance-floor euphoria in all its vast devia
+ tions. An individual eternally ready for both the moment and the sound.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-b43c3539981602a4@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260614T143000Z
+DTEND:20260614T153000Z
+SUMMARY:Girls to the Front (DJ Set)
+LOCATION:The Floor
+DESCRIPTION:Modern day riot girl representing FLINTA punk\n\nBibi Fay Banni
+ nk\, an 18 year old feminist punk fan with a plan\, started Girls To The F
+ ront to represent the FLINTA community.\nTaking inspiration from the Riot 
+ Grrrl movement this grew out to a compilation of FLINTA-fronted punk bands
+ \, an extensive club tour plus interdisciplinary events with poetry\, film
+  talks and panels. This DJ-set will show the depths of FLINTA* punk. From 
+ the Dutch underground scene to Pakistani-American wave to Javanese electro
+  Bibi will celebrate identities through punk as a lifestyle.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-c35daa6a079d1962@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260614T153000Z
+DTEND:20260614T160000Z
+SUMMARY:DJ St. Paul
+LOCATION:The Floor
+DESCRIPTION:The Floor manager who lets it all happen\n\nDJ St. Paul aka the
+  pundit behind Pop-O-Matic\, aka the honcho of Let It Happen\, aka the chi
+ ef facilitator of Best Kept Secret's The Floor.Paul isn’t a floor manage
+ r like those at normal work environments\; it’s all play in his book. Ev
+ ery year he invites an uncanny list of guests from all corners and crevice
+ s of the music world – blasting the biggest hits\, the most vital niches
+  & subcultures\, the juiciest of deep cuts\, and everything inbetween at T
+ he Floor. It’s quite literally all hands on deck when St. Paul’s your 
+ host – an exploration of pure dance-floor euphoria in all its vast devia
+ tions. An individual eternally ready for both the moment and the sound.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-016908c850448e4e@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260614T160000Z
+DTEND:20260614T170000Z
+SUMMARY:Lucky Done Gone B2B Sef
+LOCATION:The Floor
+DESCRIPTION:Two likeminded artists taking us on a joyous safari\n\nOnce in 
+ a lifetime back-to-back between two spiritually connected Best Kept Secret
+  ‘26 artists.\nProducer and DJ Lucky Done Gone casually plays that sense
+  of euphoria back in your life. Rapper\, musician and two-time The Floor D
+ J Sef guides your emotions like the chief conductor of song he is. A “Fe
+ el Good Inc” some primates in the Beeksonian Mountains are already whisp
+ ering about this unique collaboration.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-20d54e6246677b81@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260614T170000Z
+DTEND:20260614T173000Z
+SUMMARY:DJ St. Paul
+LOCATION:The Floor
+DESCRIPTION:The Floor manager who lets it all happen\n\nDJ St. Paul aka the
+  pundit behind Pop-O-Matic\, aka the honcho of Let It Happen\, aka the chi
+ ef facilitator of Best Kept Secret's The Floor.Paul isn’t a floor manage
+ r like those at normal work environments\; it’s all play in his book. Ev
+ ery year he invites an uncanny list of guests from all corners and crevice
+ s of the music world – blasting the biggest hits\, the most vital niches
+  & subcultures\, the juiciest of deep cuts\, and everything inbetween at T
+ he Floor. It’s quite literally all hands on deck when St. Paul’s your 
+ host – an exploration of pure dance-floor euphoria in all its vast devia
+ tions. An individual eternally ready for both the moment and the sound.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-40cbad8e3c9d778f@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260614T173000Z
+DTEND:20260614T190000Z
+SUMMARY:Marie Davidson (DJ set)
+LOCATION:The Floor
+DESCRIPTION:Canadian furnisher of floor fillers with extra long DJ set\n\nM
+ arie Davidson is like an ongoing subscription to your favourite dance floo
+ r. Her music works\, all the fucking time.\nPitchfork called her 2025 albu
+ m City of Clowns “bangers-only art that smashes binaries”. The Canadia
+ n artist is a war poet\, a power plant providing much needed energy in dys
+ topian times. Together with the production duties of Soulwax this makes fo
+ r furious dancing. So proud to have her over for an extra extended DJ set.
+  Give me passion\, give me more\, I want your ass on The Floor!
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-854d892d93fbcb1f@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260614T190000Z
+DTEND:20260614T200000Z
+SUMMARY:Aili & Orson (Japanese DJ Set)
+LOCATION:The Floor
+DESCRIPTION:Electro-pop duo visiting Japanese roots in unique DJ Set\n\nAil
+ i is a Belgium-Japanese electro-pop duo consisting of Aili Maruyama and Or
+ son Wouters.\nTheir instant musical chemistry led to a playful and spontan
+ eous approach to songwriting\, combining electronic beats\, samples\, and 
+ Aili's unique blend of Japanese vocals. A highlight within the recent outp
+ ut of the infamous Eskimo Recordings label. Who needs a game of football a
+ gainst the Japanese when you dance to their music too!!
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-1ae94ce8dd66d4d8@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260614T200000Z
+DTEND:20260614T203000Z
+SUMMARY:DJ St. Paul
+LOCATION:The Floor
+DESCRIPTION:The Floor manager who lets it all happen\n\nDJ St. Paul aka the
+  pundit behind Pop-O-Matic\, aka the honcho of Let It Happen\, aka the chi
+ ef facilitator of Best Kept Secret's The Floor.Paul isn’t a floor manage
+ r like those at normal work environments\; it’s all play in his book. Ev
+ ery year he invites an uncanny list of guests from all corners and crevice
+ s of the music world – blasting the biggest hits\, the most vital niches
+  & subcultures\, the juiciest of deep cuts\, and everything inbetween at T
+ he Floor. It’s quite literally all hands on deck when St. Paul’s your 
+ host – an exploration of pure dance-floor euphoria in all its vast devia
+ tions. An individual eternally ready for both the moment and the sound.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-a0432fc7948d9b50@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260614T203000Z
+DTEND:20260614T213000Z
 SUMMARY:Oceanic (Maximal Minimalism)
 LOCATION:The Floor
 DESCRIPTION:Beloved DJ and electronic musician debuting a set of minimalist
@@ -748,10 +748,243 @@ DESCRIPTION:Beloved DJ and electronic musician debuting a set of minimalist
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:best-kept-secret-2026-a7a2378f348f8790@second-brain.local
+UID:best-kept-secret-2026-96ea510fb53416e5@second-brain.local
 DTSTAMP:20260611T103410Z
-DTSTART:20260613T213000Z
-DTEND:20260613T223000Z
+DTSTART:20260614T213000Z
+DTEND:20260614T223000Z
+SUMMARY:DJ St. Paul
+LOCATION:The Floor
+DESCRIPTION:The Floor manager who lets it all happen\n\nDJ St. Paul aka the
+  pundit behind Pop-O-Matic\, aka the honcho of Let It Happen\, aka the chi
+ ef facilitator of Best Kept Secret's The Floor.Paul isn’t a floor manage
+ r like those at normal work environments\; it’s all play in his book. Ev
+ ery year he invites an uncanny list of guests from all corners and crevice
+ s of the music world – blasting the biggest hits\, the most vital niches
+  & subcultures\, the juiciest of deep cuts\, and everything inbetween at T
+ he Floor. It’s quite literally all hands on deck when St. Paul’s your 
+ host – an exploration of pure dance-floor euphoria in all its vast devia
+ tions. An individual eternally ready for both the moment and the sound.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-d36733f72aca7d18@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260611T120000Z
+DTEND:20260611T150000Z
+SUMMARY:DJ St. Paul
+LOCATION:The Floor
+DESCRIPTION:The Floor manager who lets it all happen\n\nDJ St. Paul aka the
+  pundit behind Pop-O-Matic\, aka the honcho of Let It Happen\, aka the chi
+ ef facilitator of Best Kept Secret's The Floor.Paul isn’t a floor manage
+ r like those at normal work environments\; it’s all play in his book. Ev
+ ery year he invites an uncanny list of guests from all corners and crevice
+ s of the music world – blasting the biggest hits\, the most vital niches
+  & subcultures\, the juiciest of deep cuts\, and everything inbetween at T
+ he Floor. It’s quite literally all hands on deck when St. Paul’s your 
+ host – an exploration of pure dance-floor euphoria in all its vast devia
+ tions. An individual eternally ready for both the moment and the sound.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-f69a5664ce9ef83c@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260611T150000Z
+DTEND:20260611T160000Z
+SUMMARY:Rimini Express (Vinyl Only Italo Set)
+LOCATION:The Floor
+DESCRIPTION:A devoted missionary for all things Italo\n\nNo fake moustaches
+  or other indulging clichés on this guy’s body. Rimini Express carries 
+ the Italo experience in his heart.\nIn the club\, with his radioshow or ev
+ en via lectures\, the gingerly rising DJ is spreading his obsessive passio
+ n for the depths of Italy’s ever more popular soundtrack. Strictly on vi
+ nyl of course. Hop on the Rimini Express and try his love beat by beat.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-4c788ac88a750975@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260611T160000Z
+DTEND:20260611T170000Z
+SUMMARY:DJ St. Paul
+LOCATION:The Floor
+DESCRIPTION:The Floor manager who lets it all happen\n\nDJ St. Paul aka the
+  pundit behind Pop-O-Matic\, aka the honcho of Let It Happen\, aka the chi
+ ef facilitator of Best Kept Secret's The Floor.Paul isn’t a floor manage
+ r like those at normal work environments\; it’s all play in his book. Ev
+ ery year he invites an uncanny list of guests from all corners and crevice
+ s of the music world – blasting the biggest hits\, the most vital niches
+  & subcultures\, the juiciest of deep cuts\, and everything inbetween at T
+ he Floor. It’s quite literally all hands on deck when St. Paul’s your 
+ host – an exploration of pure dance-floor euphoria in all its vast devia
+ tions. An individual eternally ready for both the moment and the sound.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-a5737b8e89bad95e@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260611T170000Z
+DTEND:20260611T180000Z
+SUMMARY:Kaat van Stralen (DJ Set)
+LOCATION:The Floor
+DESCRIPTION:Genre-defying punk band playing first ever DJ set.\n\nLinguisti
+ c uproar\, crackling beats\, biting guitar riffs and thunderous bass lines
+ .\nThe Belgian power generator Kaat van Stralen is taking our country stag
+ e by stage. “Stop Met Wenen” has become the national anthem and her fe
+ minist message wrapped in genre-defying music feels more urgent than ever.
+  After their much loved show Best Kept Secret 2025\, Kaat and her band wil
+ l travel back again to the festival\, but this time for a first ever DJ se
+ t. Riotous punk? Baywatch aerobics? The Floor can’t wait!
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-ee1398ebb2c8aebc@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260611T180000Z
+DTEND:20260611T190000Z
+SUMMARY:DJ St. Paul
+LOCATION:The Floor
+DESCRIPTION:The Floor manager who lets it all happen\n\nDJ St. Paul aka the
+  pundit behind Pop-O-Matic\, aka the honcho of Let It Happen\, aka the chi
+ ef facilitator of Best Kept Secret's The Floor.Paul isn’t a floor manage
+ r like those at normal work environments\; it’s all play in his book. Ev
+ ery year he invites an uncanny list of guests from all corners and crevice
+ s of the music world – blasting the biggest hits\, the most vital niches
+  & subcultures\, the juiciest of deep cuts\, and everything inbetween at T
+ he Floor. It’s quite literally all hands on deck when St. Paul’s your 
+ host – an exploration of pure dance-floor euphoria in all its vast devia
+ tions. An individual eternally ready for both the moment and the sound.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-29da5b2a1da5acd2@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260611T190000Z
+DTEND:20260611T200000Z
+SUMMARY:Mr. Cutts
+LOCATION:The Floor
+DESCRIPTION:Influential British producer taking social media by storm(zy)\n
+ \nMr. Cutts\, London producer and music’s most instarational guide\, vis
+ its The Floor.\nCLASH Magazine wrote about Owen Cutts – specifically his
+  productions for artists like Stormzy\, Jgrrey and Jacob Collier – that 
+ he has been involved with some of the best British releases of the past de
+ cade. His endless love for the beats\, as well as the originals\, is the d
+ riving force behind his immensely popular insta-account. Mr. Cutts flying 
+ over for one hour at The Floor? Dusty Springfield singing 'Believe me beli
+ eve me!'
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-ac19c32e2118f763@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260611T200000Z
+DTEND:20260611T203000Z
+SUMMARY:DJ St. Paul
+LOCATION:The Floor
+DESCRIPTION:The Floor manager who lets it all happen\n\nDJ St. Paul aka the
+  pundit behind Pop-O-Matic\, aka the honcho of Let It Happen\, aka the chi
+ ef facilitator of Best Kept Secret's The Floor.Paul isn’t a floor manage
+ r like those at normal work environments\; it’s all play in his book. Ev
+ ery year he invites an uncanny list of guests from all corners and crevice
+ s of the music world – blasting the biggest hits\, the most vital niches
+  & subcultures\, the juiciest of deep cuts\, and everything inbetween at T
+ he Floor. It’s quite literally all hands on deck when St. Paul’s your 
+ host – an exploration of pure dance-floor euphoria in all its vast devia
+ tions. An individual eternally ready for both the moment and the sound.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-9e6a5e7ca2f6e13c@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260611T203000Z
+DTEND:20260611T213000Z
+SUMMARY:Alice Olsthoorn
+LOCATION:The Floor
+DESCRIPTION:A true icon of the LGBTQ+ community and far beyond\n\nDJ. Artis
+ t. Producer. Icon. Pretty much the perfect bio for Alice Olsthoorn in four
+  words.\nBut make no mistake\, she deserves her own Bible. First\, the ele
+ ctronically trained musician took TikTok then she took ESNS. Her music is 
+ heavily inspired by queer rave culture. Brash\, extravagant\, transformati
+ ve\, funny and hyper sexy. The answer to a white man’s stripes and stars
+ . It’s Friday and we’re in love with Alice!
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-9f7640cdf94ec631@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260611T213000Z
+DTEND:20260611T220000Z
+SUMMARY:DJ St. Paul
+LOCATION:The Floor
+DESCRIPTION:The Floor manager who lets it all happen\n\nDJ St. Paul aka the
+  pundit behind Pop-O-Matic\, aka the honcho of Let It Happen\, aka the chi
+ ef facilitator of Best Kept Secret's The Floor.Paul isn’t a floor manage
+ r like those at normal work environments\; it’s all play in his book. Ev
+ ery year he invites an uncanny list of guests from all corners and crevice
+ s of the music world – blasting the biggest hits\, the most vital niches
+  & subcultures\, the juiciest of deep cuts\, and everything inbetween at T
+ he Floor. It’s quite literally all hands on deck when St. Paul’s your 
+ host – an exploration of pure dance-floor euphoria in all its vast devia
+ tions. An individual eternally ready for both the moment and the sound.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-0d15b806b725f9ef@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260610T220000Z
+DTEND:20260610T230000Z
+SUMMARY:Ofra
+LOCATION:The Floor
+DESCRIPTION:Together in electric dreams with the finest selection of Synthp
+ op\, Postpunk & EBM\n\nFew DJ’s walk the line between electronic music a
+ nd your favorite bands as gently as Ofra does.\nYes\, she co-founded the R
+ otterdam-based online radio station Operator and runs music platform / lab
+ el Yarrow Balle. But as a DJ she is nothing but a travel agent\, guiding u
+ s past the depths of synth pop\, wave\, acid\, postpunk\, EBM and shoegaze
+  to emotional heights. No better way to start the night than with the elec
+ tric dreams of Ofra.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-d0a3131e8798aeac@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260610T230000Z
+DTEND:20260610T233000Z
+SUMMARY:DJ St. Paul
+LOCATION:The Floor
+DESCRIPTION:The Floor manager who lets it all happen\n\nDJ St. Paul aka the
+  pundit behind Pop-O-Matic\, aka the honcho of Let It Happen\, aka the chi
+ ef facilitator of Best Kept Secret's The Floor.Paul isn’t a floor manage
+ r like those at normal work environments\; it’s all play in his book. Ev
+ ery year he invites an uncanny list of guests from all corners and crevice
+ s of the music world – blasting the biggest hits\, the most vital niches
+  & subcultures\, the juiciest of deep cuts\, and everything inbetween at T
+ he Floor. It’s quite literally all hands on deck when St. Paul’s your 
+ host – an exploration of pure dance-floor euphoria in all its vast devia
+ tions. An individual eternally ready for both the moment and the sound.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-b375ed88fb2ff00f@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260610T233000Z
+DTEND:20260611T003000Z
+SUMMARY:Iliassopdebeat
+LOCATION:The Floor
+DESCRIPTION:Hey girls\, hey boys\, superstar producers\, here we go!\n\nOne
+  of the most celebrated producers of the wild wild west.\nMaking beats at 
+ his first Moroccan holidays. Making beats at school. Making beats for brea
+ kfast. As a producer and hitmaker Iliassopdebeat wears titles such as “T
+ he Dutch Timbaland” like it’s an old pair of sneakers. As a DJ there i
+ s a whole new territory opening up. Fresh off his performance with lyrical
+  counterpart MULA B on Stage Two\, Illias will bring the noize like tomorr
+ ow never happens.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-bccc5985b4977eda@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260611T003000Z
+DTEND:20260611T020000Z
 SUMMARY:DJ St. Paul
 LOCATION:The Floor
 DESCRIPTION:The Floor manager who lets it all happen\n\nDJ St. Paul aka the
