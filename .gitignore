@@ -4,3 +4,5 @@
 !bks/data/
 !bks/data/processed/
 !bks/data/processed/best-kept-secret-2026.ics
+!bks/data/processed/stages/
+!bks/data/processed/stages/*.ics

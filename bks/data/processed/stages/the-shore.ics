@@ -1,0 +1,229 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Codex//Best Kept Secret 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Best Kept Secret 2026 Test - Shifted 1 Day Earlier - The Shore
+X-WR-TIMEZONE:Europe/Amsterdam
+BEGIN:VEVENT
+UID:best-kept-secret-2026-57b87f57833def22@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260611T140000Z
+DTEND:20260611T170000Z
+SUMMARY:Fada Jep
+LOCATION:The Shore
+DESCRIPTION:A leading light in soundsystem movements\n\nSince the early 90s
+ \, Fada Jep has been a leading authority in reggae\, dancehall\, dub and a
+ ll affiliated musical movements.\nAs a selector\, DJ and label owner\, Jep
+  Verhorevoort has sent positive vibrations out at every block party\, club
+  and festival you can think of. Fada Jep's passion for his craft is self-e
+ vident in his sets and runs as deep as the bass will take him.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-b0987d4334fc8ccd@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260611T170000Z
+DTEND:20260611T190000Z
+SUMMARY:Bibtiana: music from Île Maurice
+LOCATION:The Shore
+DESCRIPTION:Top Notch/Noah's Ark member & DJ goes knee-deep into Mauritian 
+ Seggae\n\nMusic isn't just for bread and circuses\; it's a priceless form 
+ of resistance. Seggae is a prime example of this.\nSeggae music derives fr
+ om Sega\, the traditional folk music from Mauritius. This vibrant strand o
+ f dance music was invented in the 80s by Mauritian artist Kaya\; music cre
+ ated for the uprising Creole people in Mauritius. Bibtiana will give Segga
+ e a vital modern twist with this blistering DJ set.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-e65a4ff7404dab9e@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260611T190000Z
+DTEND:20260611T210000Z
+SUMMARY:DJ Tracksuit
+LOCATION:The Shore
+DESCRIPTION:Dedicated digger of Afro-Caribbean sounds\n\nDJ Tracksuit has w
+ orked out the science behind the soiree-making: a true student of the game
+  with a nose for vibrant Afro-Caribbean sounds.\nMaking people dance and t
+ elling a story behind the decks are indeed one and the same for this Belgi
+ an connoisseur and collector. Knowing is half the battle for Timothy Vande
+ rputte\; the other half is spinning the dancefloor dizzy with a a cultural
+ ly rich\, inclusive experience that engages both body and soul.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-348ff8ba9995efe9@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260611T210000Z
+DTEND:20260611T223000Z
+SUMMARY:Cami Layé Okún
+LOCATION:The Shore
+DESCRIPTION:Infectious Cuban & Afro-Latin sounds\n\nCuban DJ\, selector\, a
+ rtist and radio host Cami Layé Okún conjures up a distinct mix of Cuban 
+ disco\, Afro-Caribbean rarities\, and Amazonian funk.\nOther than having a
+ n impeccable nose for the best hidden gems\, Cami exemplifies the joy of b
+ eing a certified crate digger\; chasing those elusive jams that can unlock
+  new windows in body and soul. Cami’s sets are adventurous\, infectious 
+ and always tell a bigger story.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-741c02fa6a833d70@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260611T223000Z
+DTEND:20260612T000000Z
+SUMMARY:Susobrino
+LOCATION:The Shore
+DESCRIPTION:Vibrant clash of Latin American jams & electronica\n\nBolivia-b
+ orn\, Brussels-based artist Susobrino is deeply connected to Latin America
+ ’s rich soundscapes.\nBoth his live sets and DJ sets are driven by rhyth
+ m\, emotion\, curiosity and exploration\, blending acoustic instruments an
+ d electronics into something grounded\, funny and unpredictable. 'SU SO BR
+ I NO' contains boleros\, cumbia\, club music\, folklore\, and film scores 
+ all colliding and manifesting into Susobrino’s warped wizardry.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-e27329e5cc12e5c0@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260612T140000Z
+DTEND:20260612T170000Z
+SUMMARY:Ketama Man
+LOCATION:The Shore
+DESCRIPTION:Certified dealer in dub\, reggae & dancehall\n\nFor over two de
+ cades\, Ketama Man has explored Jamaican music from all possible angles\nI
+ t didn’t start with (traditional) DJing\, however\, but as an MC in the 
+ late 90s. The physicality of those stage shows gave the necessary insight 
+ to translate the best reggae\, dub and dancehall to the clubs. That notion
+  of physicality also translates to Ketama Man’s insistence to stick to v
+ inyl. That's true dedication in both the selecting and igniting the dance 
+ floor part of the sum.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-14a5f005d42c72fe@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260612T170000Z
+DTEND:20260612T190000Z
+SUMMARY:Rozaly (Archives)
+LOCATION:The Shore
+DESCRIPTION:A journey through the musical lineages of Curaçao\n\nRozaly is
+  a sonic practitioner\, researcher\, curator\, and DJ from Curaçao.\nHe e
+ nshrines all the undiscovered micro-styles from her home region\; a musica
+ l ode to friends\, and forgotten pillars of Curaçao musical legacy. Expec
+ t lots of echo and reverb\, an odyssey of calypso loops\, 80s Bajan crop-o
+ vers\, kompa\, chutney\, and much\, much more.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-9f8b57afc3afaa3c@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260612T190000Z
+DTEND:20260612T220000Z
+SUMMARY:Aba Shanti-I
+LOCATION:The Shore
+DESCRIPTION:A peerless reggae/dub apostle of the deepest basses\n\nIf roots
+  reggae & dub are still resurgent in Europe and the UK\, you better believ
+ e Aba Shanti-I is a big reason why.\nSoundsystem culture hauls the party v
+ ibes to any place you can set your mind to and over the past three decades
+ \, Aba has forged his own unique frequency in this very lineage: distinct 
+ manipulations of reverb and delay into existing reggae classics\, translat
+ ing into a peerless sound that’s uniquely his.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-1aac1fbc6e345598@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260612T220000Z
+DTEND:20260613T000000Z
+SUMMARY:Bony Fly
+LOCATION:The Shore
+DESCRIPTION:Adventurous Caribbean and Latinx productions\n\nProducer\, labe
+ l owner and DJ\, Bony Fly has been dubbed as Geneva’s king of dancehall 
+ and reggaeton.\nBony Fly’s daredevil production style is the big catalys
+ t for getting such distinguished titles\; he combines cutting edge digital
+  productions with the more classical\, time-honoured craft of analog mixin
+ g\, carving out new possibilities within established dance lineages.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-61104c84a32c15ba@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260613T000000Z
+DTEND:20260613T020000Z
+SUMMARY:Mia Koden
+LOCATION:The Shore
+DESCRIPTION:Top shelf bass-heavy rhythms\n\nThe lower frequencies are where
+  producer/DJ Mia Koden is most at home\, from the womb to the booth.\nKode
+ n\, born Sancha Ndeko\, has keen expertise on how low a bass can indeed go
+ \, connecting the dots between dub\, dubstep\, grime and other bass-heavy 
+ dance transmutations. Ndeko’s sets bring the rapturous energy of soundsy
+ stem block parties to each room or stage: odysseys that span generations\,
+  bolster communities and honour undersung histories.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-d42b55b4b6a6328c@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260613T140000Z
+DTEND:20260613T170000Z
+SUMMARY:Capiche Collectiv
+LOCATION:The Shore
+DESCRIPTION:A warm blanket of soulful slow jams\n\nTilburg’s Capiche Coll
+ ectiv offer a warm blanket of soul and other types of slow jams\nGroove is
+  in the heart\, and Capiche Collectiv’s heart is both receptive and pure
+  to the kind of grooves that’ll utilise each muscle\, bone and tendon in
+  our bodies. Instead of going harder and faster\, it’s all about being s
+ moother\, deeper and more passionate. Preferably with that unmistakable an
+ alog glow\, capiche?
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-5e191cd4986ccf55@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260613T170000Z
+DTEND:20260613T190000Z
+SUMMARY:JBN Soundsystem
+LOCATION:The Shore
+DESCRIPTION:Jungle By Night behind the booth\n\nJungle By Night's Tienson\,
+  Ko en Pyke are here show off some impressive musical mileage.\nThroughout
+  their incessant travels\, these beloved Dutch jazz cats have assembled an
+  archive of sounds from all over the world\, a magnitude of music you woul
+ dn't believe. Which means time is due to aim those speakers outward\, and 
+ unleash those well-cultivated vibes towards Best Kep Secret's fluorescent 
+ The Shore area.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-57c789ed8543548b@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260613T190000Z
+DTEND:20260613T210000Z
+SUMMARY:Abiba Sokoto
+LOCATION:The Shore
+DESCRIPTION:Expressive house\, soul and jazz selections\n\nThe warm selecti
+ ons of Abiba Sokoto are an ode to the Black music continuum.\nSpanning hou
+ se\, electro\, soul and jazz. Abiba showcases her wide-ranging taste throu
+ gh her Operator Radio residency\, ALLBLUE\, as well as across numerous rad
+ io appearances from RRFM to Future Intel.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:best-kept-secret-2026-2ad568e091adaaad@second-brain.local
+DTSTAMP:20260611T103410Z
+DTSTART:20260613T210000Z
+DTEND:20260613T223000Z
+SUMMARY:Suze Ijó
+LOCATION:The Shore
+DESCRIPTION:Vintage house & soul through fresh modern ears\n\nFrom infectio
+ us Chicago house to warm\, soulful grooves\; Suze Ijó transports you back
+  to the heydays where dance floors were spaces for freedom\, self-expressi
+ on and connection.\nIjó's club sets are marked by intentionality and focu
+ s\, creating a unique atmosphere for each space and night. To her\, "House
+ " is a feeling\, an ambience\, not just a BPM range. Her approach transfor
+ ms club nights into collective\, bodily\, and spiritual experiences crafte
+ d by everyone involved.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
