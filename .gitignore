@@ -1,0 +1,6 @@
+*
+!.gitignore
+!bks/
+!bks/data/
+!bks/data/processed/
+!bks/data/processed/best-kept-secret-2026.ics
